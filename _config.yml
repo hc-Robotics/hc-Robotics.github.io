@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Hao CHENG"
+title                    : "Hao Cheng"
 title_separator          : "-"
-name                     : &name "Hao CHENG"
+name                     : &name "Hao Cheng"
 description              : &description "personal description"
 url                      : https://ericcRobotics.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "ericcRobotics/ericcRobotics.github.io"
 author:
   # Biographic information
   avatar           : "ericc.jpg"
-  name             : "Hao CHENG"
+  name             : "Hao Cheng"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : 

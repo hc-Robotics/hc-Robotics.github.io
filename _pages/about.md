@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hao CHENG (程淏) / Eric CHENG "
+title: "Hao Cheng (程淏) / Eric Cheng"
 author_profile: true
 redirect_from: 
   - /about/
