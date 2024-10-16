@@ -17,20 +17,28 @@ Email: [h-cheng@stu.pku.com](mailto:h-cheng@stu.pku.com)
 
 # Education
 
-**College of Engineering, Peking University** &emsp; _09/2021 - present_  
+**College of Engineering, Peking University** &emsp; _09/2021 - present_
+
 *Beijing, China*
+
 Ph.D. candidate in Mechanics
 
-**Department of Automation, Tsinghua University** &emsp; _09/2018 - 08/2021_  
+**Department of Automation, Tsinghua University** &emsp; _09/2018 - 08/2021_
+
 *Beijing/Shenzhen, China*
+
 M.S. in Control Engineering 
 
 **New Energy School, North China Electric Power University** &emsp; _08/2013 - 06/2017_
+
 *Beijing, China*  
+
 B.E. in Wind Turbine (Outstanding Graduate)
 
 **Wroclaw University of Science and Technology** &emsp; _02/2017 - 06/2017_  
+
 *Wroclaw,  Poland*
+
 Visiting Student
 
 ---
