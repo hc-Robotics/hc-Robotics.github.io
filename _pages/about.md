@@ -69,7 +69,7 @@ With Moving Mass Control Based on a Bird-Inspired Continuum Arm," 2024. [[Projec
 
 **Patents**
 
-1. H. Liu, **H. Cheng**, X. Wang, B. Lan, and B. Liang, Continuous robot shape sensing method based on multi-attitude calculation (一种基于多姿态解算的连续型机器人形状感知方法), Chinese Patent CN113211440B, 2020. [[Google Patents](https://patents.google.com/patent/CN113211440B/en)]
+1. H. Liu, **H. Cheng**, X. Wang, B. Lan, and B. Liang, Continuum Robot Shape Sensing Method Based on the Multi-attitude Solving Approach (一种基于多姿态解算的连续型机器人形状感知方法), Chinese Patent CN113211440B, 2020. [[Google Patents](https://patents.google.com/patent/CN113211440B/en)]
 2. B. Liang，H. Liu, **H. Cheng**, X. Wang, and B. Lan, Kinematic Equivalence Method of Continuum Robot and Its Application (一种连续型机器人运动学等效方法及应用), Chinese Patent CN111695213B, 2020. [[Google Patents](https://patents.google.com/patent/CN111695213B/en)]
 
 ---
