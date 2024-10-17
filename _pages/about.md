@@ -37,13 +37,15 @@ My research interests include light-than-air (LTA) aerial robots, continuum robo
 
 # Research Experience
 
-**College of Engineering, Peking University (Beijing, China)** &emsp; _09/2021 - present_  
-Advisor: Prof. Feitian Zhang  
-Topic: Lighter-than-air aerial robots
+&emsp;**College of Engineering, Peking University** &emsp; _09/2021 - present_  
+&emsp;*Beijing, China*  
+&emsp;Advisor: Prof. Feitian Zhang  
+&emsp;Topic: Lighter-than-air aerial robots
 
-**Shenzhen International Graduate School, Tsinghua University (Shenzhen, China)** &emsp; _09/2018 - 08/2021_  
-Advisor: Prof. Xueqian Wang  
-Topic: Perception and Control for Continuum Robots and Soft Robots 
+&emsp;**Shenzhen International Graduate School, Tsinghua University** &emsp; _09/2018 - 08/2021_  
+&emsp;*Shenzhen, China*  
+&emsp;Advisor: Prof. Xueqian Wang  
+&emsp;Topic: Perception and Control for Continuum Robots and Soft Robots 
 
 ---
 
