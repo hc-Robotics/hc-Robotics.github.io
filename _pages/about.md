@@ -46,7 +46,7 @@ Visiting Student
 **Preprint Papers**
 
 1. **H. Cheng**, and F. Zhang, "RGBlimp-Q: Robotic Gliding Blimp
-With Moving Mass Control Based on a Bird-Inspired Continuum Arm," 2024. [[Website](https://rgblimp.github.io/)] [[Video](https://youtu.be/yA_nncO6qE4)] [[arXiv](https://arxiv.org/pdf/2406.10810)] 
+With Moving Mass Control Based on a Bird-Inspired Continuum Arm," 2024. [[Project Page](https://rgblimp.github.io/)] [[Video](https://youtu.be/yA_nncO6qE4)] [[arXiv](https://arxiv.org/pdf/2406.10810)] 
 1. Y. Zhu, **H. Cheng**, and F. Zhang, "Data-Driven Dynamics Modeling of Miniature Robotic Blimps Using Neural ODEs With Parameter Auto-Tuning," 2024. (Accept in **IEEE Robotics and Automation Letters**) [[arXiv](https://arxiv.org/pdf/2404.18580)] 
 
 **Journal Papers**
@@ -58,6 +58,11 @@ With Moving Mass Control Based on a Bird-Inspired Continuum Arm," 2024. [[Websit
 1. **H. Cheng**, H. Xu, H. Shang, X. Wang, H. Liu, and B. Liang, "Orientation to Pose: Continuum Robots Shape Reconstruction Based on the Multi-Attitude Solving Approach," IEEE International Conference on Robotics and Automation (**ICRA**), 2022. [[Paper](https://ieeexplore.ieee.org/document/9812289)] [[Video](https://youtu.be/tm9aPsXuPTo)] [[arXiv](https://arxiv.org/pdf/2103.05150)] 
 2. **H. Cheng**, H. Liu, X. Wang, and B. Liang, "Configuration Estimation of Continuum Robots Using Piecewise Constant Curvature Generalized Epi-Polar Constraint Model," IEEE 17th International Conference on Automation Science and Engineering (**CASE**), 2021. [[Paper](https://ieeexplore.ieee.org/document/9551587)] 
 3. **H. Cheng**, H. Liu, X. Wang, and B. Liang, "Approximate Piecewise Constant Curvature Equivalent Model and Their Application to Continuum Robot Configuration Estimation," IEEE International Conference on Systems, Man, and Cybernetics (**SMC**), 2020. [[Paper](https://ieeexplore.ieee.org/document/9283135)] [[arXiv](https://arxiv.org/pdf/2009.06801)] 
+
+**Patents**
+
+1. H. Liu, **H. Cheng**, X. Wang, B. Lan, and B. Liang, Continuous robot shape sensing method based on multi-attitude calculation (一种基于多姿态解算的连续型机器人形状感知方法), Chinese Patent CN113211440B, 2020. [[Google Patents](https://patents.google.com/patent/CN113211440B/en)]
+2. B. Liang，H. Liu, **H. Cheng**, X. Wang, and B. Lan, Kinematic Equivalence Method of Continuum Robot and Its Application (一种连续型机器人运动学等效方法及应用), Chinese Patent CN111695213B, 2020. [[Google Patents](https://patents.google.com/patent/CN111695213B/en)]
 
 ---
 
