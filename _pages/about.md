@@ -9,9 +9,9 @@ redirect_from:
 
 I am Hao Cheng (程淏). 
 Currently, I working toward the Ph.D. degree in Mechanics at Peking University, China, under the supervision of [Prof. Feitian Zhang](http://www2.coe.pku.edu.cn/faculty/zhangfeitian/). 
-My research interests include Light-Than-Air (LTA) aerial robots, continuum robots, and bioinspired robotics. 
+My research interests include light-than-air (LTA) aerial robots, continuum robots, and bioinspired robotics. 
 
-Email: [h-cheng@stu.pku.com](mailto:h-cheng@stu.pku.com)
+**Email**: [h-cheng@stu.pku.com](mailto:h-cheng@stu.pku.com)
 
 ---
 
@@ -27,7 +27,7 @@ M.S. in Control Engineering
 
 **New Energy School, North China Electric Power University** &emsp; _08/2013 - 06/2017_  
 *Beijing, China*  
-B.E. in Wind Turbine (Outstanding Graduate)
+B.E. in Wind Power (**Outstanding Graduate at Beijing**)
 
 **Wroclaw University of Science and Technology** &emsp; _02/2017 - 06/2017_  
 *Wroclaw,  Poland*  
@@ -61,17 +61,28 @@ With Moving Mass Control Based on a Bird-Inspired Continuum Arm," 2024. [[Websit
 
 ---
 
-# Competitions
+# Awards & Honors
 
-
+-  Peking University Outstanding Research Award (北京大学科研优秀奖) &emsp; _2022_
+-  Tsinghua Comprehensive Excellence Scholarship (清华大学综合优秀奖学金) &emsp; _2020_
+-  **Outstanding Graduate at Beijing** (北京市优秀毕业生) &emsp; _2017_
+-  **China National Scholarship** (国家奖学金) &emsp; _2015_
+-  National Encouragement Scholarship (国家励志奖学金) &emsp; _2014/2016_
+-  NCEPU First-class Honour Scholarship (华北电力大学一等奖学金) &emsp; _2014/2015/2016_
 
 ---
 
-# Awards & Honors
+# Competitions
 
-
+- 2nd Place in ZC-Cup frontier Technology Challenge（Team Work, In charge of autonomous navigation part） &emsp; _2020_
+- 1nd Place in Capital Mechanical Innovation Design Competition（Team Leader, Designed an Express Packaging Robot） &emsp; _2016_
+- 1nd Place in China Siemens-Cup Intelligent Manufacturing Challenge  &emsp; _2016_
+- Champion in Robots Competition of Universities at Beijing (Team Leader, Robots Battle)  &emsp; _2015_
+- 2nd Place in Beijing Engineering Ability Competition（Team Leader, Designed a Bluetooth Explosive Disposal Robot） &emsp; _2015_
+- 2nd Place in China LQ-Cup C/C++ Programming Competition（Individual Events） &emsp; _2015_
 
 ---
 
 # Academic Service
 
+- Reviewer for IEEE ICRA, IROS, ACC, AIM
