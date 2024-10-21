@@ -159,7 +159,7 @@ My research interests include light-than-air (LTA) aerial robots, continuum robo
 -  Tsinghua Comprehensive Excellence Scholarship (清华大学综合优秀奖学金) &emsp; _2020_
 -  **Outstanding Graduate at Beijing** (北京市优秀毕业生) &emsp; _2017_
 -  **China National Scholarship** (国家奖学金) &emsp; _2015_
--  National Encouragement Scholarship (国家励志奖学金) &emsp; _2014/2016_
+-  China National Encouragement Scholarship (国家励志奖学金) &emsp; _2014/2016_
 -  NCEPU First-class Honour Scholarship (华北电力大学一等奖学金) &emsp; _2014/2015/2016_
 
 ---
