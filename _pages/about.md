@@ -29,8 +29,8 @@ My research interests include light-than-air (LTA) aerial robots, continuum robo
 &emsp;*Beijing, China*  
 &emsp;B.E. in Wind Power (**Outstanding Graduate at Beijing**)
 
-&emsp;**Wroclaw University of Science and Technology** &emsp; _02/2017 - 06/2017_  
-&emsp;*Wroclaw,  Poland*  
+&emsp;**Wrocław University of Science and Technology** &emsp; _02/2017 - 06/2017_  
+&emsp;*Wrocław,  Poland*  
 &emsp;Visiting Student
 
 ---
