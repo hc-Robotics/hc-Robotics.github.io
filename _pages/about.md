@@ -44,7 +44,7 @@ My research interests include light-than-air (LTA) aerial robots, continuum robo
 
 &emsp;**Shenzhen International Graduate School, Tsinghua University** &emsp; _09/2018 - 08/2021_  
 &emsp;*Shenzhen, China*  
-&emsp;Advisor: Prof. Xueqian Wang  
+&emsp;Advisor: Prof. Xueqian Wang, Prof. Houde Liu  
 &emsp;Topic: Perception and Control for Continuum Robots and Soft Robots 
 
 ---
