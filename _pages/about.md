@@ -72,7 +72,7 @@ My research interests include light-than-air (LTA) aerial robots, continuum robo
   <div>
     <div style="font-size: 14px; margin-bottom: 3px;">Yongjian Zhu, <strong>Hao Cheng</strong>, Feitian Zhang</div>
     <div style="font-weight: bold; font-size: 16px; line-height: 1.1;">Data-Driven Dynamics Modeling of Miniature Robotic Blimps Using Neural ODEs With Parameter Auto-Tuning</div>
-    <div style="font-size: 14px; margin-bottom: 3px;">Preprint, 2024 (Accept in <strong>IEEE Robotics and Automation Letters</strong>)</div>
+    <div style="font-size: 14px; margin-bottom: 3px;">Preprint, 2024 (Accepted in <strong>IEEE Robotics and Automation Letters</strong>)</div>
     <div style="font-size: 14px;">
       [<a href="https://arxiv.org/pdf/2404.18580" style="text-decoration: underline;">arXiv</a>]
       </div>
@@ -88,7 +88,7 @@ My research interests include light-than-air (LTA) aerial robots, continuum robo
   <div>
     <div style="font-size: 14px; margin-bottom: 3px;"><strong>Hao Cheng</strong>, Zeyu Sha, Yongjian Zhu, Feitian Zhang</div>
     <div style="font-weight: bold; font-size: 16px; line-height: 1.1;">RGBlimp: Robotic Gliding Blimp - Design, Modeling, Development, and Aerodynamics Analysis</div>
-    <div style="font-size: 14px; margin-bottom: 3px;"><strong>IEEE Robotics and Automation Letters (RA-L)</strong>, 2023 (Oral Presentation in IEEE <strong>IROS</strong> 2024)</div>
+    <div style="font-size: 14px; margin-bottom: 3px;">IEEE Robotics and Automation Letters (<strong>RA-L</strong>), 2023 (Oral Presentation in IEEE <strong>IROS</strong> 2024)</div>
     <div style="font-size: 14px;">
       [<a href="https://ieeexplore.ieee.org/document/10258385" style="text-decoration: underline;">Paper</a>]  
       [<a href="https://youtu.be/AkYN0jurYxI" style="text-decoration: underline;">Video</a>]  
