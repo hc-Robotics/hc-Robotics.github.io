@@ -39,13 +39,13 @@ My research interests include light-than-air (LTA) aerial robots, continuum robo
 
 &emsp;**College of Engineering, Peking University** &emsp; _09/2021 - present_  
 &emsp;*Beijing, China*  
-&emsp;**Advisor**: <a href="http://www2.coe.pku.edu.cn/faculty/zhangfeitian/" style="color: inherit; text-decoration: none;">Prof. Feitian Zhang</a>  
-&emsp;**Topic**: Lighter-than-air aerial robots 
+&emsp;*Advisor*: <a href="http://www2.coe.pku.edu.cn/faculty/zhangfeitian/" style="color: inherit; text-decoration: none;">Prof. Feitian Zhang</a>  
+&emsp;*Topic*: Lighter-than-air aerial robots 
 
 &emsp;**Shenzhen International Graduate School, Tsinghua University** &emsp; _09/2018 - 08/2021_  
 &emsp;*Shenzhen, China*  
-&emsp;**Advisor**: <a href="https://www.sigs.tsinghua.edu.cn/lhd_en/list.htm" style="color: inherit; text-decoration: none;">Prof. Houde Liu</a>, <a href="https://www.sigs.tsinghua.edu.cn/wxq_en/main.htm" style="color: inherit; text-decoration: none;">Prof. Xueqian Wang</a>  
-&emsp;**Topic**: Perception and Control for Continuum Robots and Soft Robots 
+&emsp;*Advisor*: <a href="https://www.sigs.tsinghua.edu.cn/lhd_en/list.htm" style="color: inherit; text-decoration: none;">Prof. Houde Liu</a>, <a href="https://www.sigs.tsinghua.edu.cn/wxq_en/main.htm" style="color: inherit; text-decoration: none;">Prof. Xueqian Wang</a>  
+&emsp;*Topic*: Perception and Control for Continuum Robots and Soft Robots 
 
 ---
 
