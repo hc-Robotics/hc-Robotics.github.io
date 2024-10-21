@@ -53,10 +53,10 @@ My research interests include light-than-air (LTA) aerial robots, continuum robo
 
 **Preprint Papers**
 <div style="display: flex; align-items: center;">
-  <img src="../images/Papers/RGBlimp_Q.jpg" alt="Placeholder Image" style="width: 90px; height: auto; margin-right: 10px;">
+  <img src="../images/Papers/RGBlimp_Q.jpg" alt="Placeholder Image" style="width: 100px; height: auto; margin-right: 10px;">
   <div>
     <div style="font-size: 14px;"><strong>Hao Cheng</strong>, Feitian Zhang</div>
-    <div style="font-weight: bold; font-size: 15px;">RGBlimp-Q: Robotic Gliding Blimp With Moving Mass Control Based on a Bird-Inspired Continuum Arm</div>
+    <div style="font-weight: bold; font-size: 16px;">RGBlimp-Q: Robotic Gliding Blimp With Moving Mass Control Based on a Bird-Inspired Continuum Arm</div>
     <div style="font-size: 14px;">Preprint, 2024</div>
     <div style="font-size: 14px;">
       [<a href="https://rgblimp.github.io/" style="text-decoration: underline;">Project Page</a>]  
@@ -68,10 +68,10 @@ My research interests include light-than-air (LTA) aerial robots, continuum robo
 <div style="margin-top: 15px;"></div>
 
 <div style="display: flex; align-items: center;">
-  <img src="../images/Papers/RA_L24_Data_Driven_Dynamics.jpg" alt="Placeholder Image" style="width: 90px; height: auto; margin-right: 10px;">
+  <img src="../images/Papers/RA_L24_Data_Driven_Dynamics.jpg" alt="Placeholder Image" style="width: 100px; height: auto; margin-right: 10px;">
   <div>
     <div style="font-size: 14px;">Yongjian Zhu, <strong>Hao Cheng</strong>, Feitian Zhang</div>
-    <div style="font-weight: bold; font-size: 15px;">Data-Driven Dynamics Modeling of Miniature Robotic Blimps Using Neural ODEs With Parameter Auto-Tuning</div>
+    <div style="font-weight: bold; font-size: 16px;">Data-Driven Dynamics Modeling of Miniature Robotic Blimps Using Neural ODEs With Parameter Auto-Tuning</div>
     <div style="font-size: 14px;">Preprint, 2024 (Accept in <strong>IEEE Robotics and Automation Letters</strong>)</div>
     <div style="font-size: 14px;">
       [<a href="https://arxiv.org/pdf/2404.18580" style="text-decoration: underline;">arXiv</a>]
