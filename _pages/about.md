@@ -83,7 +83,21 @@ My research interests include light-than-air (LTA) aerial robots, continuum robo
 
 **Journal Papers**
 
-1. **H. Cheng**, Z. Sha, Y. Zhu, and F. Zhang, "RGBlimp: Robotic Gliding Blimp - Design, Modeling, Development, and Aerodynamics Analysis," **IEEE Robotics and Automation Letters**, 2023. (Oral Presentation in IEEE **IROS** 2024) [[Paper](https://ieeexplore.ieee.org/document/10258385)] [[Video](https://youtu.be/AkYN0jurYxI)] [[arXiv](https://arxiv.org/pdf/2306.04079)] 
+<div style="display: flex; align-items: center;">
+  <img src="../images/Papers/RGBlimp.jpg" alt="Placeholder Image" style="width: 100px; height: auto; margin-right: 10px;">
+  <div>
+    <div style="font-size: 14px; margin-bottom: 3px;"><strong>Hao Cheng</strong>, Zeyu Sha, Yongjian Zhu, Feitian Zhang</div>
+    <div style="font-weight: bold; font-size: 16px; line-height: 1.1;">RGBlimp: Robotic Gliding Blimp - Design, Modeling, Development, and Aerodynamics Analysis</div>
+    <div style="font-size: 14px; margin-bottom: 3px;"><strong>IEEE Robotics and Automation Letters (RA-L)</strong>, 2023 (Oral Presentation in IEEE <strong>IROS</strong> 2024)</div>
+    <div style="font-size: 14px;">
+      [<a href="https://ieeexplore.ieee.org/document/10258385" style="text-decoration: underline;">Paper</a>]  
+      [<a href="https://youtu.be/AkYN0jurYxI" style="text-decoration: underline;">Video</a>]  
+      [<a href="https://arxiv.org/pdf/2306.04079" style="text-decoration: underline;">arXiv</a>]
+      </div>
+  </div>
+</div>
+
+<div style="margin-top: 20px;"></div>
 
 **Conference Papers**
 
