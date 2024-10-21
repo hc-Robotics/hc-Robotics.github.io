@@ -115,8 +115,36 @@ My research interests include light-than-air (LTA) aerial robots, continuum robo
   </div>
 </div>
 
-1. **H. Cheng**, H. Liu, X. Wang, and B. Liang, "Configuration Estimation of Continuum Robots Using Piecewise Constant Curvature Generalized Epi-Polar Constraint Model," IEEE 17th International Conference on Automation Science and Engineering (**CASE**), 2021. [[Paper](https://ieeexplore.ieee.org/document/9551587)] 
-2. **H. Cheng**, H. Liu, X. Wang, and B. Liang, "Approximate Piecewise Constant Curvature Equivalent Model and Their Application to Continuum Robot Configuration Estimation," IEEE International Conference on Systems, Man, and Cybernetics (**SMC**), 2020. [[Paper](https://ieeexplore.ieee.org/document/9283135)] [[arXiv](https://arxiv.org/pdf/2009.06801)] 
+<div style="margin-top: 20px;"></div>
+
+<div style="display: flex; align-items: center;">
+  <img src="../images/Papers/CASE21_Configuration_Estimation.jpg" alt="Placeholder Image" style="width: 100px; height: auto; margin-right: 10px;">
+  <div>
+    <div style="font-size: 14px; margin-bottom: 3px;"><strong>Hao Cheng</strong>, Houde Liu, Xueqian Wang, Bin Liang</div>
+    <div style="font-weight: bold; font-size: 16px; line-height: 1.1;">Configuration Estimation of Continuum Robots Using Piecewise Constant Curvature Generalized Epi-Polar Constraint Model</div>
+    <div style="font-size: 14px; margin-bottom: 3px;">IEEE 17th International Conference on Automation Science and Engineering (CASE), 2021</div>
+    <div style="font-size: 14px;">
+      [<a href="https://ieeexplore.ieee.org/document/9551587" style="text-decoration: underline;">Paper</a>] 
+      </div>
+  </div>
+</div>
+
+<div style="margin-top: 20px;"></div>
+
+<div style="display: flex; align-items: center;">
+  <img src="../images/Papers/SMC20_Approximate_PCC.jpg" alt="Placeholder Image" style="width: 100px; height: auto; margin-right: 10px;">
+  <div>
+    <div style="font-size: 14px; margin-bottom: 3px;"><strong>Hao Cheng</strong>, Houde Liu, Xueqian Wang, Bin Liang</div>
+    <div style="font-weight: bold; font-size: 16px; line-height: 1.1;">Approximate Piecewise Constant Curvature Equivalent Model and Their Application to Continuum Robot Configuration Estimation</div>
+    <div style="font-size: 14px; margin-bottom: 3px;">IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2020</div>
+    <div style="font-size: 14px;">
+      [<a href="https://ieeexplore.ieee.org/document/9283135" style="text-decoration: underline;">Paper</a>]  
+      [<a href="https://arxiv.org/pdf/2009.06801" style="text-decoration: underline;">arXiv</a>]
+      </div>
+  </div>
+</div>
+
+<div style="margin-top: 20px;"></div>
 
 **Patents**
 
