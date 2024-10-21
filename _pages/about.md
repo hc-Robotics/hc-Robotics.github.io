@@ -101,9 +101,22 @@ My research interests include light-than-air (LTA) aerial robots, continuum robo
 
 **Conference Papers**
 
-1. **H. Cheng**, H. Xu, H. Shang, X. Wang, H. Liu, and B. Liang, "Orientation to Pose: Continuum Robots Shape Reconstruction Based on the Multi-Attitude Solving Approach," IEEE International Conference on Robotics and Automation (**ICRA**), 2022. [[Paper](https://ieeexplore.ieee.org/document/9812289)] [[Video](https://youtu.be/tm9aPsXuPTo)] [[arXiv](https://arxiv.org/pdf/2103.05150)] 
-2. **H. Cheng**, H. Liu, X. Wang, and B. Liang, "Configuration Estimation of Continuum Robots Using Piecewise Constant Curvature Generalized Epi-Polar Constraint Model," IEEE 17th International Conference on Automation Science and Engineering (**CASE**), 2021. [[Paper](https://ieeexplore.ieee.org/document/9551587)] 
-3. **H. Cheng**, H. Liu, X. Wang, and B. Liang, "Approximate Piecewise Constant Curvature Equivalent Model and Their Application to Continuum Robot Configuration Estimation," IEEE International Conference on Systems, Man, and Cybernetics (**SMC**), 2020. [[Paper](https://ieeexplore.ieee.org/document/9283135)] [[arXiv](https://arxiv.org/pdf/2009.06801)] 
+<div style="display: flex; align-items: center;">
+  <img src="../images/Papers/ICRA21_Shape Reconstruction.jpg" alt="Placeholder Image" style="width: 100px; height: auto; margin-right: 10px;">
+  <div>
+    <div style="font-size: 14px; margin-bottom: 3px;"><strong>Hao Cheng</strong>, Hejie Xu, Hongji Shang, Xueqian Wang, Houde Liu, Bin Liang</div>
+    <div style="font-weight: bold; font-size: 16px; line-height: 1.1;">Orientation to Pose: Continuum Robots Shape Reconstruction Based on the Multi-Attitude Solving Approach</div>
+    <div style="font-size: 14px; margin-bottom: 3px;">IEEE International Conference on Robotics and Automation (<strong>ICRA</strong>), 2022</div>
+    <div style="font-size: 14px;">
+      [<a href="https://ieeexplore.ieee.org/document/9812289" style="text-decoration: underline;">Paper</a>]  
+      [<a href="https://youtu.be/tm9aPsXuPTo" style="text-decoration: underline;">Video</a>]  
+      [<a href="https://arxiv.org/pdf/2103.05150" style="text-decoration: underline;">arXiv</a>]
+      </div>
+  </div>
+</div>
+
+1. **H. Cheng**, H. Liu, X. Wang, and B. Liang, "Configuration Estimation of Continuum Robots Using Piecewise Constant Curvature Generalized Epi-Polar Constraint Model," IEEE 17th International Conference on Automation Science and Engineering (**CASE**), 2021. [[Paper](https://ieeexplore.ieee.org/document/9551587)] 
+2. **H. Cheng**, H. Liu, X. Wang, and B. Liang, "Approximate Piecewise Constant Curvature Equivalent Model and Their Application to Continuum Robot Configuration Estimation," IEEE International Conference on Systems, Man, and Cybernetics (**SMC**), 2020. [[Paper](https://ieeexplore.ieee.org/document/9283135)] [[arXiv](https://arxiv.org/pdf/2009.06801)] 
 
 **Patents**
 
