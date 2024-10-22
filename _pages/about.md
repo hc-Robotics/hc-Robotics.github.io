@@ -151,8 +151,33 @@ My research interests include light-than-air (LTA) aerial robots, continuum robo
 
 **Patents**
 
-1. H. Liu, **H. Cheng**, X. Wang, B. Lan, and B. Liang, Continuum Robot Shape Sensing Method Based on the Multi-attitude Solving Approach (一种基于多姿态解算的连续型机器人形状感知方法), Chinese Patent CN113211440B, 2020. [[Google Patents](https://patents.google.com/patent/CN113211440B/en)]
-2. B. Liang，H. Liu, **H. Cheng**, X. Wang, and B. Lan, Kinematic Equivalence Method of Continuum Robot and Its Application (一种连续型机器人运动学等效方法及应用), Chinese Patent CN111695213B, 2020. [[Google Patents](https://patents.google.com/patent/CN111695213B/en)]
+<div style="display: flex; align-items: center;">
+  <img src="../images/Patents/Patent1.png" alt="Placeholder Image" style="width: 100px; height: auto; margin-right: 10px;">
+  <div>
+    <div style="font-size: 14px; margin-bottom: 3px;">Houde Liu, <strong>Hao Cheng</strong>, Xueqian Wang, Bin Lan, Bin Liang</div>
+    <div style="font-weight: bold; font-size: 16px; line-height: 1.1;">Continuum Robot Shape Sensing Method Based on the Multi-attitude Solving Approach</div>
+    <div style="font-size: 14px; margin-bottom: 3px;">(一种基于多姿态解算的连续型机器人形状感知方法), Chinese Patent CN113211440B, 2020</div>
+    <div style="font-size: 14px;">
+      [<a href="https://patents.google.com/patent/CN113211440B/en" style="text-decoration: underline;">Google Patents</a>]  
+      </div>
+  </div>
+</div>
+
+<div style="margin-top: 20px;"></div>
+
+<div style="display: flex; align-items: center;">
+  <img src="../images/Patents/Patent2.png" alt="Placeholder Image" style="width: 100px; height: auto; margin-right: 10px;">
+  <div>
+    <div style="font-size: 14px; margin-bottom: 3px;">Bin Liang, Houde Liu, <strong>Hao Cheng</strong>, Xueqian Wang, Bin Lan </div>
+    <div style="font-weight: bold; font-size: 16px; line-height: 1.1;">Kinematic Equivalence Method of Continuum Robot and Its Application</div>
+    <div style="font-size: 14px; margin-bottom: 3px;">(一种连续型机器人运动学等效方法及应用), Chinese Patent CN111695213B, 2020</div>
+    <div style="font-size: 14px;">
+      [<a href="https://patents.google.com/patent/CN111695213B/en" style="text-decoration: underline;">Google Patents</a>]  
+      </div>
+  </div>
+</div>
+
+<div style="margin-top: 20px;"></div>
 
 ---
 
