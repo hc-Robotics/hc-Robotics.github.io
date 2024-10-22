@@ -51,7 +51,7 @@ My research interests include light-than-air (LTA) aerial robots, continuum robo
 
 # Publications
 
-**Preprint Papers**
+**Preprint Paper**
 <div style="display: flex; align-items: center;">
   <img src="../images/Papers/RGBlimp_Q.jpg" alt="Placeholder Image" style="width: 100px; height: auto; margin-right: 10px;">
   <div>
@@ -68,13 +68,16 @@ My research interests include light-than-air (LTA) aerial robots, continuum robo
 </div>
 <div style="margin-top: 20px;"></div>
 
+**Journal Papers**
+
 <div style="display: flex; align-items: center;">
   <img src="../images/Papers/RA_L24_Data_Driven_Dynamics.jpg" alt="Placeholder Image" style="width: 100px; height: auto; margin-right: 10px;">
   <div>
     <div style="font-size: 14px; margin-bottom: 3px;">Yongjian Zhu, <strong>Hao Cheng</strong>, Feitian Zhang</div>
     <div style="font-weight: bold; font-size: 16px; line-height: 1.1;">Data-Driven Dynamics Modeling of Miniature Robotic Blimps Using Neural ODEs With Parameter Auto-Tuning</div>
-    <div style="font-size: 14px; margin-bottom: 3px;">Preprint, 2024 (Accepted in <strong>IEEE Robotics and Automation Letters</strong>)</div>
+    <div style="font-size: 14px; margin-bottom: 3px;">IEEE Robotics and Automation Letters (<strong>RA-L</strong>), 2024 (Early Access)</div>
     <div style="font-size: 14px;">
+      [<a href="https://ieeexplore.ieee.org/document/10723763" style="text-decoration: underline;">Paper</a>]  
       [<a href="https://github.com/zhu-yj/ABNODE" style="text-decoration: underline;">Code</a>]
       [<a href="https://arxiv.org/pdf/2404.18580" style="text-decoration: underline;">arXiv</a>]
       </div>
@@ -82,8 +85,6 @@ My research interests include light-than-air (LTA) aerial robots, continuum robo
 </div>
 
 <div style="margin-top: 20px;"></div>
-
-**Journal Papers**
 
 <div style="display: flex; align-items: center;">
   <img src="../images/Papers/RGBlimp.jpg" alt="Placeholder Image" style="width: 100px; height: auto; margin-right: 10px;">
