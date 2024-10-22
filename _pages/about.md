@@ -91,7 +91,7 @@ My research interests include light-than-air (LTA) aerial robots, continuum robo
   <div>
     <div style="font-size: 14px; margin-bottom: 3px;"><strong>Hao Cheng</strong>, Zeyu Sha, Yongjian Zhu, Feitian Zhang</div>
     <div style="font-weight: bold; font-size: 16px; line-height: 1.1;">RGBlimp: Robotic Gliding Blimp - Design, Modeling, Development, and Aerodynamics Analysis</div>
-    <div style="font-size: 14px; margin-bottom: 3px;">IEEE Robotics and Automation Letters (<strong>RA-L</strong>), 2023 (Oral Presentation in IEEE <strong>IROS</strong> 2024)</div>
+    <div style="font-size: 14px; margin-bottom: 3px;">IEEE Robotics and Automation Letters (<strong>RA-L</strong>), 2023 (<span style="color: red; font-weight: bold;">Oral Presentation</span> in IEEE <strong>IROS</strong> 2024)</div>
     <div style="font-size: 14px;">
       [<a href="https://ieeexplore.ieee.org/document/10258385" style="text-decoration: underline;">Paper</a>]  
       [<a href="https://youtu.be/AkYN0jurYxI" style="text-decoration: underline;">Video</a>]  
@@ -109,7 +109,7 @@ My research interests include light-than-air (LTA) aerial robots, continuum robo
   <div>
     <div style="font-size: 14px; margin-bottom: 3px;"><strong>Hao Cheng</strong>, Hejie Xu, Hongji Shang, Xueqian Wang, Houde Liu, Bin Liang</div>
     <div style="font-weight: bold; font-size: 16px; line-height: 1.1;">Orientation to Pose: Continuum Robots Shape Reconstruction Based on the Multi-Attitude Solving Approach</div>
-    <div style="font-size: 14px; margin-bottom: 3px;">IEEE International Conference on Robotics and Automation (<strong>ICRA</strong>), 2022 (Oral Presentation)</div>
+    <div style="font-size: 14px; margin-bottom: 3px;">IEEE International Conference on Robotics and Automation (<strong>ICRA</strong>), 2022 (<span style="color: red; font-weight: bold;">Oral Presentation</span>)</div>
     <div style="font-size: 14px;">
       [<a href="https://ieeexplore.ieee.org/document/9812289" style="text-decoration: underline;">Paper</a>]  
       [<a href="https://youtu.be/tm9aPsXuPTo" style="text-decoration: underline;">Video</a>]  
