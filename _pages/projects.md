@@ -26,12 +26,10 @@ This page is currently being updated. Please refer to the [[Project Page](https:
   <p style="margin-bottom: -5px;"><strong>Description</strong>:
     Robotic blimps, as lighter-than-air aerial systems, offer prolonged duration and enhanced safety in human-robot interactions due to their buoyant lift. However, robust flight against environmental airflow disturbances remains a significant challenge, limiting the broader application of these robots.
   </p>
-  <p style="margin-bottom: -5px;">
+  <p>
     Drawing inspiration from the flight mechanics of birds and their ability to perch against natural wind, this project introduces RGBlimp-Q, a robotic gliding blimp equipped with a birdinspired continuum arm. This arm allows for flexible attitude adjustments through moving mass control to enhance disturbance resilience, while also enabling object capture by using claws to counteract environmental disturbances, similar to a bird. This project presents the design, modeling, and prototyping of RGBlimp-Q, thus extending the advantages of robotic blimps to more complex environments. To the best of the authors’ knowledge, this is the first interdisciplinary design integrating continuum mechanisms onto robotic blimps. Experimental results from both indoor and outdoor settings validate the improved flight robustness against environmental disturbances offered by this novel design. 
   </p>
-  <p>
-    We have open-sourced the RGBlimp-Q hardware and code on <a href="https://github.com/RGBlimp/RGBlimp-Q">GitHub</a>.
-  </p>
+  [<a href="https://rgblimp.github.io/" style="text-decoration: underline;">Project Page</a>] [<a href="https://github.com/RGBlimp/RGBlimp-Q" style="text-decoration: underline;">Hardware & Code</a>] 
 </div>
 
 
@@ -41,13 +39,16 @@ This page is currently being updated. Please refer to the [[Project Page](https:
 
 <div style="margin-top: -10px;"></div>
 
-## Bluetooth Explosive Disposal Robot
+## Bluetooth Cargo Robot
 <p align="center">
   <img width="27.3%" src="../files/competitions/bcar.jpg">
   <img width="50%" src="../files/competitions/bcar.gif">
 </p>
 <div style="text-align: justify;">
   <p style="margin-bottom: -5px;"><strong>Description</strong>:
-    .
+    This project, originated from the 2015 Beijing Engineering Ability Competition, entailed the development of a Bluetooth cargo robot operated via a smartphone. The robot incorporates a differential drive mechanism, facilitating flexibility. The robot is equipped with functionalities of automatic lid opening, object retrieval, and cargo transportation, ensuring the secure conveyance of 0.1Kg loads to designated locations. The project involves mechanical design, electronic control, and system integration. 
+  </p>
+  <p style="margin-bottom: -5px;"><strong>Outcome</strong>:
+    2nd Place in Beijing Engineering Ability Competition, 2015（Team Leader）
   </p>
 </div>
