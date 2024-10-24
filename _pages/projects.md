@@ -38,3 +38,16 @@ This page is currently being updated. Please refer to the [[Project Page](https:
 ---
 
 # Competition Projects
+
+<div style="margin-top: -10px;"></div>
+
+## Bluetooth Explosive Disposal Robot
+<p align="center">
+  <img width="27.3%" src="../files/competitions/bcar.jpg">
+  <img width="50%" src="../files/competitions/bcar.gif">
+</p>
+<div style="text-align: justify;">
+  <p style="margin-bottom: -5px;"><strong>Description</strong>:
+    .
+  </p>
+</div>
