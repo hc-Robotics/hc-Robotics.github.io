@@ -40,7 +40,7 @@ This page is currently being updated. Please refer to the [[Project Page](https:
 <div style="margin-top: -10px;"></div>
 
 ## Bluetooth Cargo Robot
-<p align="center" name="bcar">
+<p align="center" id="bcar">
   <img width="27.3%" src="../files/competitions/bcar.jpg">
   <img width="50%" src="../files/competitions/bcar.gif">
 </p>
