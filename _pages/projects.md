@@ -46,7 +46,7 @@ This page is currently being updated. Please refer to the [[Project Page](https:
 </p>
 <div style="text-align: justify;">
   <p style="margin-bottom: -5px;"><strong>Description</strong>:
-    This project, originated from the 2015 Beijing Engineering Ability Competition, entailed the development of a Bluetooth cargo robot operated via a smartphone. The robot incorporates a differential drive mechanism, facilitating flexibility. The robot is equipped with functionalities of automatic lid opening, object retrieval, and cargo transportation, ensuring the secure conveyance of 0.1Kg loads to designated locations. The project involves mechanical design, electronic control, and system integration. 
+    This project, originated from <i>the 2015 Beijing Engineering Ability Competition</i>, entailed the development of a Bluetooth cargo robot operated via a smartphone. The robot incorporates a differential drive mechanism, facilitating flexibility. The robot is equipped with functionalities of automatic lid opening, object retrieval, and cargo transportation, ensuring the secure conveyance of 0.1Kg loads to designated locations. The project involves mechanical design, electronic control, and system integration. 
   </p>
   <p style="margin-bottom: -5px;"><strong>Outcome</strong>:
     2nd Place in Beijing Engineering Ability Competition, 2015（Team Leader）
