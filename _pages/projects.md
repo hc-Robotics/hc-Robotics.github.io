@@ -16,8 +16,8 @@ This page is currently being updated. Please refer to the [[Project Page](https:
 # Research Projects
 
 <div style="margin-top: -10px;"></div>
+<h2> <font color=D95319>R</font><font color=77AC30>G</font><font color=0072BD>B</font>limp-Q: <font color=D95319>R</font>obotic <font color=77AC30>G</font>liding <font color=0072BD>B</font>limp With Moving Mass Control Based on a Bird-Inspired Continuum Arm </h2>
 
-## <font color=D95319>R</font><font color=77AC30>G</font><font color=0072BD>B</font>limp-Q: <font color=D95319>R</font>obotic <font color=77AC30>G</font>liding <font color=0072BD>B</font>limp With Moving Mass Control Based on a Bird-Inspired Continuum Arm
 <p align="center">
   <img width="25.3%" src="../files/research/rgblimp-q/Cover.jpg">
   <img width="55%" src="../files/research/rgblimp-q/ProjectPage.gif">
@@ -39,8 +39,8 @@ This page is currently being updated. Please refer to the [[Project Page](https:
 
 <div style="margin-top: -10px;"></div>
 
-## Bluetooth Cargo Robot
-<p align="center" id="bcar">
+<h2 id="bcar"> Bluetooth Cargo Robot </h2>
+<p align="center" >
   <img width="27.3%" src="../files/competitions/bcar.jpg">
   <img width="50%" src="../files/competitions/bcar.gif">
 </p>
