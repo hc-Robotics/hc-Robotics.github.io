@@ -39,7 +39,7 @@ redirect_from:
 
 <h2 id="battle"> Robots Battle </h2>
 <p align="center" >
-  <img width="60%" src="../files/competitions/battle.jpg">
+  <img width="78%" src="../files/competitions/battle.jpg">
 </p>
 <div style="text-align: justify;">
   <p style="margin-bottom: -5px;"><strong>Description</strong>:
