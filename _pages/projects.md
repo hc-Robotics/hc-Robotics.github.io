@@ -11,24 +11,18 @@ redirect_from:
 
 <script>
 document.addEventListener("DOMContentLoaded", function() {
-    const links = document.querySelectorAll('a[href^="#"]');
-    
-    links.forEach(function(link) {
-        link.addEventListener("click", function(event) {
-            event.preventDefault();
+    if (window.location.hash) {
+        const targetId = window.location.hash.substring(1);
+        const targetElement = document.getElementById(targetId);
+        const offset = 60;
 
-            const targetId = this.getAttribute("href").substring(1);
-            const targetElement = document.getElementById(targetId);
-            const offset = 60;
+        const top = targetElement.getBoundingClientRect().top + window.pageYOffset - offset;
 
-            const top = targetElement.getBoundingClientRect().top + window.pageYOffset - offset;
-
-            window.scrollTo({
-                top: top,
-                behavior: "smooth"
-            });
+        window.scrollTo({
+            top: top,
+            behavior: "smooth"
         });
-    });
+    }
 });
 </script>
 
