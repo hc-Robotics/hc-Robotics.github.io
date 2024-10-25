@@ -9,6 +9,33 @@ redirect_from:
 
 {% include base_path %}
 
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    const links = document.querySelectorAll('a[href^="#"]');
+    
+    links.forEach(function(link) {
+        link.addEventListener("click", function(event) {
+            event.preventDefault();
+
+            const targetId = this.getAttribute("href").substring(1);
+            const targetElement = document.getElementById(targetId);
+            const offset = 60;
+
+            const top = targetElement.getBoundingClientRect().top + window.pageYOffset - offset;
+
+            window.scrollTo({
+                top: top,
+                behavior: "smooth"
+            });
+        });
+    });
+});
+</script>
+
+<div style="margin-top: 5px;">
+
+---
+
 # Research Projects
 
 <div style="margin-top: -10px;"></div>
@@ -22,7 +49,7 @@ redirect_from:
   <p style="margin-bottom: -5px;"><strong>Description</strong>:
     Robotic blimps, as lighter-than-air aerial systems, offer prolonged duration and enhanced safety in human-robot interactions due to their buoyant lift. However, robust flight against environmental airflow disturbances remains a significant challenge, limiting the broader application of these robots.
   </p>
-  <p style="margin-bottom: -5px;">
+  <p style="margin-bottom: -2px;">
     Drawing inspiration from the flight mechanics of birds and their ability to perch against natural wind, this project introduces RGBlimp-Q, a robotic gliding blimp equipped with a birdinspired continuum arm. This arm allows for flexible attitude adjustments through moving mass control to enhance disturbance resilience, while also enabling object capture by using claws to counteract environmental disturbances, similar to a bird. This project presents the design, modeling, and prototyping of RGBlimp-Q, thus extending the advantages of robotic blimps to more complex environments. To the best of the authors’ knowledge, this is the first interdisciplinary design integrating continuum mechanisms onto robotic blimps. Experimental results from both indoor and outdoor settings validate the improved flight robustness against environmental disturbances offered by this novel design. 
   </p>
   [<a href="https://rgblimp.github.io/" style="text-decoration: underline;">Project Page</a>] [<a href="https://github.com/RGBlimp/RGBlimp-Q" style="text-decoration: underline;">Hardware & Code</a>] 
@@ -42,7 +69,7 @@ redirect_from:
 </p>
 <div style="text-align: justify;">
   <p style="margin-bottom: -5px;"><strong>Description</strong>:
-    This project, originated from <i>the 2015 Beijing Engineering Ability Competition</i>, entailed the development of a Bluetooth cargo robot operated via a smartphone. The robot incorporates a differential drive mechanism facilitating flexibility. The robot is equipped with automatic control for lid opening, object retrieval, and cargo transportation, ensuring the secure conveyance of 0.1Kg loads to designated locations. The project involves mechanical design, electronic control, and system integration. 
+    This project, originated from <i>the 2015 Beijing Engineering Ability Competition</i>, entailed the development of a Bluetooth cargo robot operated via a smartphone. The robot incorporates a differential drive mechanism facilitating flexibility. The robot is equipped with automatic control for lid opening, object retrieval, and cargo transportation, ensuring the secure conveyance of 100g loads to designated locations. The project involves mechanical design, electronic control, and system integration. 
   </p>
   <p style="margin-bottom: -5px;"><strong>Outcome</strong>:
     2nd Place in Beijing Engineering Ability Competition, 2015（Team Leader）
