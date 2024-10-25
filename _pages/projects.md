@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", function() {
         });
     }
 });
-</script>
+</script> 
 
 <div style="margin-top: 5px;">
 
