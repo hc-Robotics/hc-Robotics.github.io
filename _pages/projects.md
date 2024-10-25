@@ -9,23 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-    if (window.location.hash) {
-        const targetId = window.location.hash.substring(1);
-        const targetElement = document.getElementById(targetId);
-        const offset = 60;
-
-        const top = targetElement.getBoundingClientRect().top + window.pageYOffset - offset;
-
-        window.scrollTo({
-            top: top,
-            behavior: "smooth"
-        });
-    }
-});
-</script> 
-
 <div style="margin-top: 5px;">
 
 ---
