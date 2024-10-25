@@ -77,6 +77,7 @@ My research interests include light-than-air (LTA) aerial robots, continuum robo
     <div style="font-weight: bold; font-size: 16px; line-height: 1.1;">Data-Driven Dynamics Modeling of Miniature Robotic Blimps Using Neural ODEs With Parameter Auto-Tuning</div>
     <div style="font-size: 14px; margin-bottom: 3px;">IEEE Robotics and Automation Letters (<strong>RA-L</strong>), 2024 (Early Access)</div>
     <div style="font-size: 14px;">
+      [<a href="{{ site.baseurl }}/projects/#rgblimp" style="text-decoration: underline;">Project</a>] 
       [<a href="https://ieeexplore.ieee.org/document/10723763" style="text-decoration: underline;">Paper</a>]  
       [<a href="https://github.com/zhu-yj/ABNODE" style="text-decoration: underline;">Code</a>]
       [<a href="https://arxiv.org/pdf/2404.18580" style="text-decoration: underline;">arXiv</a>]

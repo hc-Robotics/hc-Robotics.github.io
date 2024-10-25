@@ -30,6 +30,26 @@ redirect_from:
   [<a href="https://rgblimp.github.io/" style="text-decoration: underline;">Project Page</a>] [<a href="https://github.com/RGBlimp/RGBlimp-Q" style="text-decoration: underline;">Hardware & Code</a>] 
 </div>
 
+<div style="margin-top: 20px;"></div>
+
+<h2 id="rgblimp"> RGBlimp: Robotic Gliding Blimp -- Design, Modeling, Development, and Aerodynamics Analysis </h2>
+
+<p align="center">
+  <img width="35.3%" src="../files/research/rgblimp/illustration.jpg">
+  <img width="45%" src="../files/research/rgblimp/demo.gif">
+</p>
+<div style="text-align: justify;">
+  <p style="margin-bottom: -5px;"><strong>Description</strong>:
+    A robotic blimp, as one type of lighterthan-air aerial vehicle, has attracted increasing attention in the science and engineering field for its long flight duration and safe aerial locomotion. While a variety of robotic blimps have been developed over the past decade, most of them utilize the buoyant lift and neglect the aerodynamic lift in their design, thus leading to a mediocre aerodynamic performance, particularly in terms of aerodynamic efficiency and aerodynamic stability.
+  </p>
+  <p style="margin-bottom: -2px;">
+    This project proposes a new design of robotic blimp that combines desirable features of both a robotic blimp and a fixedwing glider, named the Robotic Gliding Blimp, or RGBlimp. This robot, equipped with an envelope filled with helium and a pair of wings, uses an internal moving mass and a pair of propellers for its locomotion control. This letter presents the design, dynamic modeling, prototyping, and system identification of the RGBlimp.  Experimental results are presented to validate the design and the dynamic model of the RGBlimp. Analysis of the RGBlimp aerodynamics is conducted which confirms the performance improvement of the proposed RGBlimp in aerodynamic efficiency and flight stability. 
+  </p>
+  [<a href="https://ieeexplore.ieee.org/document/10258385" style="text-decoration: underline;">Paper</a>]  
+  [<a href="https://youtu.be/AkYN0jurYxI" style="text-decoration: underline;">Video</a>]  
+  [<a href="https://arxiv.org/pdf/2306.04079" style="text-decoration: underline;">arXiv</a>]
+</div>
+
 
 <hr>
 
