@@ -13,7 +13,7 @@ redirect_from:
 
 ---
 
-# Research Projects
+<h1> Research Projects </h1>
 
 <div style="margin-top: -10px;"></div>
 <h2> <font color=D95319>R</font><font color=77AC30>G</font><font color=0072BD>B</font>limp-Q: <font color=D95319>R</font>obotic <font color=77AC30>G</font>liding <font color=0072BD>B</font>limp With Moving Mass Control Based on a Bird-Inspired Continuum Arm </h2>
@@ -35,7 +35,7 @@ redirect_from:
 
 ---
 
-# Competition Projects
+<h1> Competition Projects </h1>
 
 <div style="margin-top: -10px;"></div>
 
