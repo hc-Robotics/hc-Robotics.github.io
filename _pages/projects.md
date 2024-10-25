@@ -37,13 +37,13 @@ redirect_from:
 
 <div style="margin-top: -10px;"></div>
 
-<h2 id="battle"> Robots Battle </h2>
+<h2 id="battle"> Robots Combat </h2>
 <p align="center" >
   <img width="78%" src="../files/competitions/battle.jpg">
 </p>
 <div style="text-align: justify;">
   <p style="margin-bottom: -5px;"><strong>Description</strong>:
-     
+     The Robot Combat Competition is a defensive and offensive contest between robots of red and blue teams. Each team's robots must navigate obstacles, engage opponents, and attack the opponent's life tower. The team with the highest score wins. The 12m x 12m arena has bases at opposite corners and obstacles like broken bridges and turntables. We designed four different wheeled robots, including one remotely operated through visual teleoperation. We emerged as champion after intense competition. 
   </p>
   <p style="margin-bottom: -5px;"><strong>Outcome</strong>:
     <strong>Champion</strong> in Robots Competition of Universities at Beijing, 2015 (Team Leader, Robots Battle)
