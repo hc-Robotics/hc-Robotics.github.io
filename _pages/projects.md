@@ -9,9 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<div style="margin-top: 5px;">
-
----
+<hr>
 
 <h1> Research Projects </h1>
 
@@ -33,11 +31,26 @@ redirect_from:
 </div>
 
 
----
+<hr>
 
 <h1> Competition Projects </h1>
 
 <div style="margin-top: -10px;"></div>
+
+<h2 id="battle"> Robots Battle </h2>
+<p align="center" >
+  <img width="60%" src="../files/competitions/battle.jpg">
+</p>
+<div style="text-align: justify;">
+  <p style="margin-bottom: -5px;"><strong>Description</strong>:
+     
+  </p>
+  <p style="margin-bottom: -5px;"><strong>Outcome</strong>:
+    <strong>Champion</strong> in Robots Competition of Universities at Beijing, 2015 (Team Leader, Robots Battle)
+  </p>
+</div>
+
+<div style="margin-top: 20px;"></div>
 
 <h2 id="bcar"> Bluetooth Cargo Robot </h2>
 <p align="center" >
