@@ -196,7 +196,7 @@ My research interests include light-than-air (LTA) aerial robots, continuum robo
 
 # Competitions
 
-- 2nd Place in ZC-Cup frontier Technology Challenge (Team Work, In charge of autonomous navigation part) &emsp; _2020_
+- 2nd Place in ZC-Cup Frontier Technology Challenge (Team Work, Contributions to the autonomous navigation of a maze challenge) [<a href="{{ site.baseurl }}/projects/#maze" style="text-decoration: underline;">Project</a>] &emsp; _2020_
 - **1st Place** in Capital Mechanical Innovation Design Competition (Team Leader, Designed an Express Packaging Robot) &emsp; _2016_
 - **1st Place** in China Siemens-Cup Intelligent Manufacturing Challenge  &emsp; _2016_
 - **Champion** in Robots Competition of Universities at Beijing (Team Leader, Robots Combat) [<a href="{{ site.baseurl }}/projects/#battle" style="text-decoration: underline;">Project</a>]  &emsp; _2015_

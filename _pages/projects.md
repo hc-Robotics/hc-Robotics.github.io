@@ -74,13 +74,29 @@ redirect_from:
 
 <div style="margin-top: -10px;"></div>
 
+<h2 id="maze"> Maze Challenge in ZC-Cup Frontier Technology Challenge </h2>
+<p align="center" >
+  <img width="38.02%" src="../files/competitions/photo.jpg">
+  <img width="40%" src="../files/competitions/maze.gif">
+</p>
+<div style="text-align: justify;">
+  <p style="margin-bottom: -5px;"><strong>Description</strong>:
+    <i>The 2020 ZC-Cup frontier Technology Challenge</i> centers on the theme of "Post-disaster Area Detection and Disposal," featuring 13 competition tasks. These tasks include traversing complex terrain, clearing obstacles, opening doors, ascending and descending stairs, autonomous navigation in unknown areas (maze challenge), handling fire emergencies in smoke-filled environments, and rescuing lives. Robots competed in a 4000-square-meter final arena simulating a post-disaster environment. In our team collaboration, I primarily contributed to the maze challenge, achieving autonomous navigation using LiDAR sensing and the RRT algorithm. 
+  </p>
+  <p style="margin-bottom: -5px;"><strong>Outcome</strong>:
+    2nd Place in ZC-Cup frontier Technology Challenge, 2020 (Team Work, Contributions to the autonomous navigation of a maze challenge)
+  </p>
+</div>
+
+<div style="margin-top: 20px;"></div>
+
 <h2 id="battle"> Robots Combat </h2>
 <p align="center" >
   <img width="78%" src="../files/competitions/battle.jpg">
 </p>
 <div style="text-align: justify;">
   <p style="margin-bottom: -5px;"><strong>Description</strong>:
-     The Robot Combat Competition is a defensive and offensive contest between robots of red and blue teams. Each team's robots must navigate obstacles, engage opponents, and attack the opponent's life tower. The team with the highest score wins. The 12m x 12m arena has bases at opposite corners and obstacles like broken bridges and turntables. We designed four different wheeled robots, including one remotely operated through visual teleoperation. We emerged as champion after intense competition. 
+     <i>The Robot Combat Competition</i> is a defensive and offensive contest between robots of red and blue teams. Each team's robots must navigate obstacles, engage opponents, and attack the opponent's life tower. The team with the highest score wins. The 12m x 12m arena has bases at opposite corners and obstacles like broken bridges and turntables. We designed four different wheeled robots, including one remotely operated through visual teleoperation. We emerged as champion after intense competition. 
   </p>
   <p style="margin-bottom: -5px;"><strong>Outcome</strong>:
     <strong>Champion</strong> in Robots Competition of Universities at Beijing, 2015 (Team Leader, Robots Battle)
