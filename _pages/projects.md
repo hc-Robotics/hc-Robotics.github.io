@@ -50,6 +50,23 @@ redirect_from:
   [<a href="https://arxiv.org/pdf/2306.04079" style="text-decoration: underline;">arXiv</a>]
 </div>
 
+<div style="margin-top: 20px;"></div>
+
+<h2 id="continuum"> Continuum Robots Shape Reconstruction Based on the Multi-Attitude Solving Approach </h2>
+
+<p align="center">
+  <img width="27.8%" src="../files/research/continuum/cover.jpg">
+  <img width="65%" src="../files/research/continuum/demo.gif">
+</p>
+<div style="text-align: justify;">
+  <p style="margin-bottom: -2px;"><strong>Description</strong>:
+    Continuum robots are typically slender and flexible with infinite freedoms in theory, which poses a challenge for their control and application. The shape reconstruction of continuum robots is vital to realize closed-loop control. This project proposes a novel general real-time shape reconstruction framework of continuum robots based on the piecewise polynomial curvature (PPC) kinematics model. We illustrate the coupling between orientation and position at any given location of the continuum robots. Further, the coupling relation could be bridged by the PPC kinematics. Therefore, we propose to estimate the shape through multi-attitude solving, using the off-the-shelf orientation sensors, e.g., IMUs, mounted on certain locations. The approach gives a valuable framework to real-time shape reconstruction of continuum robots, which is general, accurate and convenient. The accuracy of our approach is verified in the experiments of distinct physical prototypes. 
+  </p>
+  [<a href="https://ieeexplore.ieee.org/document/9812289" style="text-decoration: underline;">Paper</a>]  
+  [<a href="https://youtu.be/tm9aPsXuPTo" style="text-decoration: underline;">Video</a>]  
+  [<a href="https://arxiv.org/pdf/2103.05150" style="text-decoration: underline;">arXiv</a>]
+</div>
+
 
 <hr>
 

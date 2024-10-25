@@ -112,6 +112,7 @@ My research interests include light-than-air (LTA) aerial robots, continuum robo
     <div style="font-weight: bold; font-size: 16px; line-height: 1.1;">Orientation to Pose: Continuum Robots Shape Reconstruction Based on the Multi-Attitude Solving Approach</div>
     <div style="font-size: 14px; margin-bottom: 3px;">IEEE International Conference on Robotics and Automation (<strong>ICRA</strong>), 2022 (<span style="color: red; font-weight: bold;">Oral Presentation</span>)</div>
     <div style="font-size: 14px;">
+      [<a href="{{ site.baseurl }}/projects/#continuum" style="text-decoration: underline;">Project</a>] 
       [<a href="https://ieeexplore.ieee.org/document/9812289" style="text-decoration: underline;">Paper</a>]  
       [<a href="https://youtu.be/tm9aPsXuPTo" style="text-decoration: underline;">Video</a>]  
       [<a href="https://arxiv.org/pdf/2103.05150" style="text-decoration: underline;">arXiv</a>]
