@@ -86,9 +86,25 @@ redirect_from:
 
 <div style="margin-top: -10px;"></div>
 
+<h2 id="spinal"> Bio-Inspired Continuum Spinal Rehabilitation Robot </h2>
+<p align="center" >
+  <img width="16.92%" src="../files/competitions/spinal.jpg">
+  <img width="45%" src="../files/competitions/spinal.gif">
+</p>
+<div style="text-align: justify;">
+  <p style="margin-bottom: -5px;"><strong>Description</strong>:
+    This project designed a bionic spinal rehabilitation robot developed based on continuum robot technology. The aim is to leverage the flexibility, compliance, and safety of continuum robots to mimic human spinal movements. Combined with a portable wearable structure, it facilitates spinal rehabilitation exercises for users, effectively aiding spinal rehabilitation training. 
+  </p>
+  <p style="margin-bottom: -5px;"><strong>Outcome</strong>:
+    2nd Place in China Graduate Robotics Innovation Design Competition, 2021 (Team Leader)
+  </p>
+</div>
+
+<div style="margin-top: 20px;"></div>
+
 <h2 id="maze"> Maze Challenge in ZC-Cup Frontier Technology Challenge </h2>
 <p align="center" >
-  <img width="38.02%" src="../files/competitions/photo.jpg">
+  <img width="38.02%" src="../files/competitions/maze.jpg">
   <img width="40%" src="../files/competitions/maze.gif">
 </p>
 <div style="text-align: justify;">
@@ -111,7 +127,7 @@ redirect_from:
      <i>The Robot Combat Competition</i> is a defensive and offensive contest between robots of red and blue teams. Each team's robots must navigate obstacles, engage opponents, and attack the opponent's life tower. The team with the highest score wins. The 12m x 12m arena has bases at opposite corners and obstacles like broken bridges and turntables. We designed four different wheeled robots, including one remotely operated through visual teleoperation. We emerged as champion after intense competition. 
   </p>
   <p style="margin-bottom: -5px;"><strong>Outcome</strong>:
-    <strong>Champion</strong> in Robots Competition of Universities at Beijing, 2015 (Team Leader, Robots Battle)
+    <strong>Champion</strong> in Robots Competition of Universities at Beijing, 2015 (Team Leader)
   </p>
 </div>
 
