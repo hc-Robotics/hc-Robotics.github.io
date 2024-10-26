@@ -52,6 +52,18 @@ redirect_from:
 
 <div style="margin-top: 20px;"></div>
 
+<h2> Previous Attempts in Robotic Blimp Design </h2>
+<p align="center">
+  <img width="80%" src="../files/research/rgblimp_legacy/legacy.gif">
+</p>
+<div style="text-align: justify;">
+  <p><strong>Description</strong>:
+    This section showcases our early robotic blimp designs and prototypes. Although some were phased out due to flaws, they provided valuable insights for subsequent developments. 
+  </p>
+</div>
+
+<div style="margin-top: 20px;"></div>
+
 <h2 id="continuum"> Continuum Robots Shape Reconstruction Based on the Multi-Attitude Solving Approach </h2>
 
 <p align="center">
