@@ -58,7 +58,7 @@ redirect_from:
 </p>
 <div style="text-align: justify;">
   <p><strong>Description</strong>:
-    This section showcases our early robotic blimp designs and prototypes. Although some were phased out due to flaws, they provided valuable insights for subsequent developments. 
+    This section showcases our early robotic blimp designs and prototypes. Although some were phased out due to drawbacks, they provided valuable insights for subsequent developments. 
   </p>
 </div>
 
