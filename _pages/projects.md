@@ -88,7 +88,7 @@ redirect_from:
 
 <h2 id="spinal"> Bio-Inspired Continuum Spinal Rehabilitation Robot </h2>
 <p align="center" >
-  <img width="16.92%" src="../files/competitions/spinal.jpg">
+  <img width="16.93%" src="../files/competitions/spinal.jpg">
   <img width="45%" src="../files/competitions/spinal.gif">
 </p>
 <div style="text-align: justify;">
