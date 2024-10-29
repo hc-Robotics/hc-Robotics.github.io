@@ -51,7 +51,7 @@ My research interests include light-than-air (LTA) aerial robots, continuum robo
 
 # Publications
 
-**Preprint Paper**
+**Preprint**
 <div style="display: flex; align-items: center;">
   <img src="../images/Papers/RGBlimp_Q.jpg" alt="Placeholder Image" style="width: 100px; height: auto; margin-right: 10px;">
   <div>
@@ -68,7 +68,7 @@ My research interests include light-than-air (LTA) aerial robots, continuum robo
 </div>
 <div style="margin-top: 20px;"></div>
 
-**Journal Papers**
+**Journal Articles**
 
 <div style="display: flex; align-items: center;">
   <img src="../images/Papers/RA_L24_Data_Driven_Dynamics.jpg" alt="Placeholder Image" style="width: 100px; height: auto; margin-right: 10px;">
