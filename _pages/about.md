@@ -18,7 +18,7 @@ My research interests include light-than-air (LTA) aerial robots, continuum robo
 # Education
 
 &emsp;**College of Engineering, Peking University** &emsp; _09/2021 - present_  
-&emsp;*Beijing, China*  
+&emsp;*Beijing, China*   
 &emsp;Ph.D. candidate in Mechanics
 
 &emsp;**Department of Automation, Tsinghua University** &emsp; _09/2018 - 08/2021_  
