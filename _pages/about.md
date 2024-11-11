@@ -203,7 +203,7 @@ My research interests include light-than-air (LTA) aerial robots, continuum robo
 - **Champion** in Robots Competition of Universities at Beijing (Team Leader, Robots Combat) [<a href="{{ site.baseurl }}/projects/#battle" style="text-decoration: underline;">Project</a>]  &emsp; _2015_
 - 2nd Prize in Beijing Engineering Ability Competition (Team Leader, Designed a Bluetooth Cargo Robot) [<a href="{{ site.baseurl }}/projects/#bcar" style="text-decoration: underline;">Project</a>] &emsp; _2015_ 
 - 2nd Prize in China LQ-Cup C/C++ Programming Competition (Individual Events) &emsp; _2015_
-- 2nd Prize in China National Olympiad in Informatics in Provinces (NOIP) &emsp; _2011_
+- 2nd Prize in China National Olympiad in Informatics in Provinces (NOIP) &emsp; _2012_
 
 ---
 
