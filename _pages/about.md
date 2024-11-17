@@ -147,8 +147,8 @@ My research interests include light-than-air (LTA) aerial robots, continuum robo
 <div style="margin-top: 20px;"></div>
 
 <div style="display: flex; align-items: center;">
-  <a href="../images/Papers/SMC20_Approximate_PCC.jpg" style="width: 115px; height: auto; margin-right: 10px;">
-    <img src="../images/Papers/SMC20_Approximate_PCC.jpg" alt="Placeholder Image" >
+  <a href="../images/Papers/SMC20_Approximate_PCC.jpg" style="width: 100px; height: auto; margin-right: 10px;">
+    <img src="../images/Papers/SMC20_Approximate_PCC.jpg" alt="Placeholder Image" style="width: 100%;">
   </a>
   <div>
     <div style="font-size: 14px; margin-bottom: 3px;"><strong>Hao Cheng</strong>, Houde Liu, Xueqian Wang, Bin Liang</div>
@@ -167,7 +167,7 @@ My research interests include light-than-air (LTA) aerial robots, continuum robo
 
 <div style="display: flex; align-items: center;">
   <a href="../images/Patents/Patent1.png" style="width: 102px; height: auto; margin-right: 10px;">
-    <img src="../images/Patents/Patent1.png" alt="Placeholder Image">
+    <img src="../images/Patents/Patent1.png" alt="Placeholder Image" style="width: 100%;">
   </a>
   <div>
     <div style="font-size: 14px; margin-bottom: 3px;">Houde Liu, <strong>Hao Cheng</strong>, Xueqian Wang, Bin Lan, Bin Liang</div>
