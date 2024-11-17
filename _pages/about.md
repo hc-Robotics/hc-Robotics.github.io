@@ -53,7 +53,9 @@ My research interests include light-than-air (LTA) aerial robots, continuum robo
 
 **Preprint**
 <div style="display: flex; align-items: center;">
-  <img src="../images/Papers/RGBlimp_Q.jpg" alt="Placeholder Image" style="width: 100px; height: auto; margin-right: 10px;">
+  <a href="../images/Papers/RGBlimp_Q.jpg">
+    <img src="../images/Papers/RGBlimp_Q.jpg" alt="Placeholder Image" style="width: 100px; height: auto; margin-right: 10px;">
+  </a>
   <div>
     <div style="font-size: 14px; margin-bottom: 3px;"><strong>Hao Cheng</strong>, Feitian Zhang</div>
     <div style="font-weight: bold; font-size: 16px; line-height: 1.1;">RGBlimp-Q: Robotic Gliding Blimp With Moving Mass Control Based on a Bird-Inspired Continuum Arm</div>
@@ -71,7 +73,9 @@ My research interests include light-than-air (LTA) aerial robots, continuum robo
 **Journal Articles**
 
 <div style="display: flex; align-items: center;">
-  <img src="../images/Papers/RA_L24_Data_Driven_Dynamics.jpg" alt="Placeholder Image" style="width: 100px; height: auto; margin-right: 10px;">
+  <a href="../images/Papers/RA_L24_Data_Driven_Dynamics.jpg">
+    <img src="../images/Papers/RA_L24_Data_Driven_Dynamics.jpg" alt="Placeholder Image" style="width: 100px; height: auto; margin-right: 10px;">
+  </a>
   <div>
     <div style="font-size: 14px; margin-bottom: 3px;">Yongjian Zhu, <strong>Hao Cheng</strong>, Feitian Zhang</div>
     <div style="font-weight: bold; font-size: 16px; line-height: 1.1;">Data-Driven Dynamics Modeling of Miniature Robotic Blimps Using Neural ODEs With Parameter Auto-Tuning</div>
@@ -87,7 +91,9 @@ My research interests include light-than-air (LTA) aerial robots, continuum robo
 <div style="margin-top: 20px;"></div>
 
 <div style="display: flex; align-items: center;">
-  <img src="../images/Papers/RGBlimp.jpg" alt="Placeholder Image" style="width: 100px; height: auto; margin-right: 10px;">
+  <a href="../images/Papers/RGBlimp.jpg">
+    <img src="../images/Papers/RGBlimp.jpg" alt="Placeholder Image" style="width: 100px; height: auto; margin-right: 10px;">
+  </a>
   <div>
     <div style="font-size: 14px; margin-bottom: 3px;"><strong>Hao Cheng</strong>, Zeyu Sha, Yongjian Zhu, Feitian Zhang</div>
     <div style="font-weight: bold; font-size: 16px; line-height: 1.1;">RGBlimp: Robotic Gliding Blimp - Design, Modeling, Development, and Aerodynamics Analysis</div>
@@ -106,7 +112,9 @@ My research interests include light-than-air (LTA) aerial robots, continuum robo
 **Conference Papers**
 
 <div style="display: flex; align-items: center;">
-  <img src="../images/Papers/ICRA21_Shape Reconstruction.jpg" alt="Placeholder Image" style="width: 100px; height: auto; margin-right: 10px;">
+  <a href="../images/Papers/ICRA21_Shape Reconstruction.jpg">
+    <img src="../images/Papers/ICRA21_Shape Reconstruction.jpg" alt="Placeholder Image" style="width: 100px; height: auto; margin-right: 10px;">
+  </a>
   <div>
     <div style="font-size: 14px; margin-bottom: 3px;"><strong>Hao Cheng</strong>, Hejie Xu, Hongji Shang, Xueqian Wang, Houde Liu, Bin Liang</div>
     <div style="font-weight: bold; font-size: 16px; line-height: 1.1;">Orientation to Pose: Continuum Robots Shape Reconstruction Based on the Multi-Attitude Solving Approach</div>
@@ -123,7 +131,9 @@ My research interests include light-than-air (LTA) aerial robots, continuum robo
 <div style="margin-top: 20px;"></div>
 
 <div style="display: flex; align-items: center;">
-  <img src="../images/Papers/CASE21_Configuration_Estimation.jpg" alt="Placeholder Image" style="width: 100px; height: auto; margin-right: 10px;">
+  <a href="../images/Papers/CASE21_Configuration_Estimation.jpg">
+    <img src="../images/Papers/CASE21_Configuration_Estimation.jpg" alt="Placeholder Image" style="width: 100px; height: auto; margin-right: 10px;">
+  </a>
   <div>
     <div style="font-size: 14px; margin-bottom: 3px;"><strong>Hao Cheng</strong>, Houde Liu, Xueqian Wang, Bin Liang</div>
     <div style="font-weight: bold; font-size: 16px; line-height: 1.1;">Configuration Estimation of Continuum Robots Using Piecewise Constant Curvature Generalized Epi-Polar Constraint Model</div>
@@ -137,7 +147,9 @@ My research interests include light-than-air (LTA) aerial robots, continuum robo
 <div style="margin-top: 20px;"></div>
 
 <div style="display: flex; align-items: center;">
-  <img src="../images/Papers/SMC20_Approximate_PCC.jpg" alt="Placeholder Image" style="width: 100px; height: auto; margin-right: 10px;">
+  <a href="../images/Papers/SMC20_Approximate_PCC.jpg">
+    <img src="../images/Papers/SMC20_Approximate_PCC.jpg" alt="Placeholder Image" style="width: 100px; height: auto; margin-right: 10px;">
+  </a>
   <div>
     <div style="font-size: 14px; margin-bottom: 3px;"><strong>Hao Cheng</strong>, Houde Liu, Xueqian Wang, Bin Liang</div>
     <div style="font-weight: bold; font-size: 16px; line-height: 1.1;">Approximate Piecewise Constant Curvature Equivalent Model and Their Application to Continuum Robot Configuration Estimation</div>
@@ -154,7 +166,9 @@ My research interests include light-than-air (LTA) aerial robots, continuum robo
 **Patents**
 
 <div style="display: flex; align-items: center;">
-  <img src="../images/Patents/Patent1.png" alt="Placeholder Image" style="width: 100px; height: auto; margin-right: 10px;">
+  <a href="../images/Patents/Patent1.png">
+    <img src="../images/Patents/Patent1.png" alt="Placeholder Image" style="width: 100px; height: auto; margin-right: 10px;">
+  </a>
   <div>
     <div style="font-size: 14px; margin-bottom: 3px;">Houde Liu, <strong>Hao Cheng</strong>, Xueqian Wang, Bin Lan, Bin Liang</div>
     <div style="font-weight: bold; font-size: 16px; line-height: 1.1;">Continuum Robot Shape Sensing Method Based on the Multi-attitude Solving Approach</div>
@@ -168,7 +182,9 @@ My research interests include light-than-air (LTA) aerial robots, continuum robo
 <div style="margin-top: 20px;"></div>
 
 <div style="display: flex; align-items: center;">
-  <img src="../images/Patents/Patent2.png" alt="Placeholder Image" style="width: 100px; height: auto; margin-right: 10px;">
+  <a href="../images/Patents/Patent2.png">
+    <img src="../images/Patents/Patent2.png" alt="Placeholder Image" style="width: 100px; height: auto; margin-right: 10px;">
+  </a>
   <div>
     <div style="font-size: 14px; margin-bottom: 3px;">Bin Liang, Houde Liu, <strong>Hao Cheng</strong>, Xueqian Wang, Bin Lan </div>
     <div style="font-weight: bold; font-size: 16px; line-height: 1.1;">Kinematic Equivalence Method of Continuum Robot and Its Application</div>
