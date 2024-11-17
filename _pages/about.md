@@ -147,7 +147,7 @@ My research interests include light-than-air (LTA) aerial robots, continuum robo
 <div style="margin-top: 20px;"></div>
 
 <div style="display: flex; align-items: center;">
-  <a href="../images/Papers/SMC20_Approximate_PCC.jpg" style="width: 12%;">
+  <a href="../images/Papers/SMC20_Approximate_PCC.jpg">
     <img src="../images/Papers/SMC20_Approximate_PCC.jpg" alt="Placeholder Image" style="width: 100px; height: auto; margin-right: 10px;">
   </a>
   <div>
@@ -166,7 +166,7 @@ My research interests include light-than-air (LTA) aerial robots, continuum robo
 **Patents**
 
 <div style="display: flex; align-items: center;">
-  <a href="../images/Patents/Patent1.png" style="width: 11%;">
+  <a href="../images/Patents/Patent1.png">
     <img src="../images/Patents/Patent1.png" alt="Placeholder Image" style="width: 100px; height: auto; margin-right: 10px;">
   </a>
   <div>
@@ -182,7 +182,7 @@ My research interests include light-than-air (LTA) aerial robots, continuum robo
 <div style="margin-top: 20px;"></div>
 
 <div style="display: flex; align-items: center;">
-  <a href="../images/Patents/Patent2.png" style="width: 11%;">
+  <a href="../images/Patents/Patent2.png">
     <img src="../images/Patents/Patent2.png" alt="Placeholder Image" style="width: 100px; height: auto; margin-right: 10px;">
   </a>
   <div>
