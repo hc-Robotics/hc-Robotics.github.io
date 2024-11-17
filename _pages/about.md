@@ -54,7 +54,7 @@ My research interests include light-than-air (LTA) aerial robots, continuum robo
 **Preprint**
 <div style="display: flex; align-items: center;">
   <a href="../images/Papers/RGBlimp_Q.jpg">
-    <img src="../images/Papers/RGBlimp_Q.jpg" alt="Placeholder Image" style="width: 100px; height: auto; margin-right: 10px;">
+    <img src="../images/Papers/RGBlimp_Q.jpg" alt="Placeholder Image" style="width: 100px !important; height: auto; margin-right: 10px;">
   </a>
   <div>
     <div style="font-size: 14px; margin-bottom: 3px;"><strong>Hao Cheng</strong>, Feitian Zhang</div>
@@ -74,7 +74,7 @@ My research interests include light-than-air (LTA) aerial robots, continuum robo
 
 <div style="display: flex; align-items: center;">
   <a href="../images/Papers/RA_L24_Data_Driven_Dynamics.jpg">
-    <img src="../images/Papers/RA_L24_Data_Driven_Dynamics.jpg" alt="Placeholder Image" style="width: 100px; height: auto; margin-right: 10px;">
+    <img src="../images/Papers/RA_L24_Data_Driven_Dynamics.jpg" alt="Placeholder Image" style="width: 100px !important; height: auto; margin-right: 10px;">
   </a>
   <div>
     <div style="font-size: 14px; margin-bottom: 3px;">Yongjian Zhu, <strong>Hao Cheng</strong>, Feitian Zhang</div>
@@ -92,7 +92,7 @@ My research interests include light-than-air (LTA) aerial robots, continuum robo
 
 <div style="display: flex; align-items: center;">
   <a href="../images/Papers/RGBlimp.jpg">
-    <img src="../images/Papers/RGBlimp.jpg" alt="Placeholder Image" style="width: 100px; height: auto; margin-right: 10px;">
+    <img src="../images/Papers/RGBlimp.jpg" alt="Placeholder Image" style="width: 100px !important; height: auto; margin-right: 10px;">
   </a>
   <div>
     <div style="font-size: 14px; margin-bottom: 3px;"><strong>Hao Cheng</strong>, Zeyu Sha, Yongjian Zhu, Feitian Zhang</div>
@@ -113,7 +113,7 @@ My research interests include light-than-air (LTA) aerial robots, continuum robo
 
 <div style="display: flex; align-items: center;">
   <a href="../images/Papers/ICRA21_Shape Reconstruction.jpg">
-    <img src="../images/Papers/ICRA21_Shape Reconstruction.jpg" alt="Placeholder Image" style="width: 100px; height: auto; margin-right: 10px;">
+    <img src="../images/Papers/ICRA21_Shape Reconstruction.jpg" alt="Placeholder Image" style="width: 100px !important; height: auto; margin-right: 10px;">
   </a>
   <div>
     <div style="font-size: 14px; margin-bottom: 3px;"><strong>Hao Cheng</strong>, Hejie Xu, Hongji Shang, Xueqian Wang, Houde Liu, Bin Liang</div>
@@ -132,7 +132,7 @@ My research interests include light-than-air (LTA) aerial robots, continuum robo
 
 <div style="display: flex; align-items: center;">
   <a href="../images/Papers/CASE21_Configuration_Estimation.jpg">
-    <img src="../images/Papers/CASE21_Configuration_Estimation.jpg" alt="Placeholder Image" style="width: 100px; height: auto; margin-right: 10px;">
+    <img src="../images/Papers/CASE21_Configuration_Estimation.jpg" alt="Placeholder Image" style="width: 100px !important; height: auto; margin-right: 10px;">
   </a>
   <div>
     <div style="font-size: 14px; margin-bottom: 3px;"><strong>Hao Cheng</strong>, Houde Liu, Xueqian Wang, Bin Liang</div>
@@ -148,7 +148,7 @@ My research interests include light-than-air (LTA) aerial robots, continuum robo
 
 <div style="display: flex; align-items: center;">
   <a href="../images/Papers/SMC20_Approximate_PCC.jpg">
-    <img src="../images/Papers/SMC20_Approximate_PCC.jpg" alt="Placeholder Image" style="width: 100px; height: auto; margin-right: 10px;">
+    <img src="../images/Papers/SMC20_Approximate_PCC.jpg" alt="Placeholder Image" style="width: 100px !important; height: auto; margin-right: 10px;">
   </a>
   <div>
     <div style="font-size: 14px; margin-bottom: 3px;"><strong>Hao Cheng</strong>, Houde Liu, Xueqian Wang, Bin Liang</div>
@@ -167,7 +167,7 @@ My research interests include light-than-air (LTA) aerial robots, continuum robo
 
 <div style="display: flex; align-items: center;">
   <a href="../images/Patents/Patent1.png">
-    <img src="../images/Patents/Patent1.png" alt="Placeholder Image" style="width: 100px; height: auto; margin-right: 10px;">
+    <img src="../images/Patents/Patent1.png" alt="Placeholder Image" style="width: 100px !important; height: auto; margin-right: 10px;">
   </a>
   <div>
     <div style="font-size: 14px; margin-bottom: 3px;">Houde Liu, <strong>Hao Cheng</strong>, Xueqian Wang, Bin Lan, Bin Liang</div>
@@ -183,7 +183,7 @@ My research interests include light-than-air (LTA) aerial robots, continuum robo
 
 <div style="display: flex; align-items: center;">
   <a href="../images/Patents/Patent2.png">
-    <img src="../images/Patents/Patent2.png" alt="Placeholder Image" style="width: 100px; height: auto; margin-right: 10px;">
+    <img src="../images/Patents/Patent2.png" alt="Placeholder Image" style="width: 100px !important; height: auto; margin-right: 10px;">
   </a>
   <div>
     <div style="font-size: 14px; margin-bottom: 3px;">Bin Liang, Houde Liu, <strong>Hao Cheng</strong>, Xueqian Wang, Bin Lan </div>
