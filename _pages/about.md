@@ -54,7 +54,7 @@ My research interests include light-than-air (LTA) aerial robots, continuum robo
 **Preprint**
 <div style="display: flex; align-items: center;">
   <a href="../images/Papers/RGBlimp_Q.jpg" style="display: inline-block; max-width: 100px !important; overflow: hidden; margin-right: 10px;">
-    <img src="../images/Papers/RGBlimp_Q.jpg" alt="Placeholder Image" style="width: 100px; height: auto; margin-right: 10px;">
+    <img src="../images/Papers/RGBlimp_Q.jpg" alt="Placeholder Image" style="width: 100%; height: auto; display: block;">
   </a>
   <div>
     <div style="font-size: 14px; margin-bottom: 3px;"><strong>Hao Cheng</strong>, Feitian Zhang</div>
