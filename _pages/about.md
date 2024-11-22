@@ -112,13 +112,13 @@ My research interests include light-than-air (LTA) aerial robots, continuum robo
 **Conference Papers**
 
 <div style="display: flex; align-items: center;">
-  <a href="../images/Papers/ICRA21_Shape Reconstruction.jpg" style="display: inline-block; max-width: 100px !important; overflow: hidden; margin-right: 10px;">
-    <img src="../images/Papers/ICRA21_Shape Reconstruction.jpg" alt="Placeholder Image" style="width: 100%; height: auto; display: block;">
+  <a href="../images/Papers/ICRA22_Shape Reconstruction.jpg" style="display: inline-block; max-width: 100px !important; overflow: hidden; margin-right: 10px;">
+    <img src="../images/Papers/ICRA22_Shape Reconstruction.jpg" alt="Placeholder Image" style="width: 100%; height: auto; display: block;">
   </a>
   <div>
     <div style="font-size: 14px; margin-bottom: 3px;"><strong>Hao Cheng</strong>, Hejie Xu, Hongji Shang, Xueqian Wang, Houde Liu, Bin Liang</div>
     <div style="font-weight: bold; font-size: 16px; line-height: 1.1;">Orientation to Pose: Continuum Robots Shape Reconstruction Based on the Multi-Attitude Solving Approach</div>
-    <div style="font-size: 14px; margin-bottom: 3px;">IEEE International Conference on Robotics and Automation (<strong>ICRA</strong>), 2022 (<span style="color: red; font-weight: bold;">Oral Presentation</span>)</div>
+    <div style="font-size: 14px; margin-bottom: 3px;">IEEE International Conference on Robotics and Automation (<strong>ICRA</strong>), 2022 (<a href="../images/img/ICRA22.jpg" style="color: red; font-weight: bold; text-decoration: none;">Oral Presentation</a>)</div>
     <div style="font-size: 14px;">
       [<a href="{{ site.baseurl }}/projects/#continuum" style="text-decoration: underline;">Project</a>] 
       [<a href="https://ieeexplore.ieee.org/document/9812289" style="text-decoration: underline;">Paper</a>]  
