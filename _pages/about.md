@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am Hao Cheng (程淏). 
-Currently, I am working toward the Ph.D. degree in Mechanics at Peking University, China, under the supervision of [Prof. Feitian Zhang](http://www2.coe.pku.edu.cn/faculty/zhangfeitian/). 
-My research interests include lighter-than-air (LTA) aerial robots, continuum robots, and bioinspired robotics. 
-
-**Email**: [h-cheng@stu.pku.com](mailto:h-cheng@stu.pku.com) (during Ph.D.) &emsp; [hc.robotic@gmail.com](mailto:hc.robotic@gmail.com) (long-term)
+<div style="text-align: justify;">
+  I am Hao Cheng (程淏). Currently, I am working toward the Ph.D. degree in Mechanics at Peking University, China, under the supervision of <a href="http://www2.coe.pku.edu.cn/faculty/zhangfeitian/" style="text-decoration: underline;">Prof. Feitian Zhang</a>. My research interests include lighter-than-air (LTA) aerial robots, continuum robots, and bioinspired robotics. 
+  <br><br>
+  <strong>Email</strong>: <a href="mailto:h-cheng@stu.pku.com" style="text-decoration: underline;">h-cheng@stu.pku.com</a> (during Ph.D.) &emsp; <a href="mailto:hc.robotic@gmail.com" style="text-decoration: underline;">hc.robotic@gmail.com</a> (long-term)
+</div>
 
 ---
 

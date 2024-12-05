@@ -96,7 +96,7 @@ redirect_from:
     This project designed a bionic spinal rehabilitation robot developed based on continuum robot technology. The aim is to leverage the flexibility, compliance, and safety of continuum robots to mimic human spinal movements. Combined with a portable wearable structure, it facilitates spinal rehabilitation exercises for users, effectively aiding spinal rehabilitation training. 
   </p>
   <p style="margin-bottom: -5px;"><strong>Outcome</strong>:
-    2nd Place in China Graduate Robotics Innovation Design Competition, 2021 (Team Leader)
+    2nd Prize in China Graduate Robotics Innovation Design Competition, 2021 (Team Leader)
   </p>
 </div>
 
@@ -109,10 +109,10 @@ redirect_from:
 </p>
 <div style="text-align: justify;">
   <p style="margin-bottom: -5px;"><strong>Description</strong>:
-    <i>The 2020 ZC-Cup frontier Technology Challenge</i> centers on the theme of "Post-disaster Area Detection and Disposal," featuring 13 competition tasks. These tasks include traversing complex terrain, clearing obstacles, opening doors, ascending and descending stairs, autonomous navigation in unknown areas (maze challenge), handling fire emergencies in smoke-filled environments, and rescuing lives. Robots competed in a 4000-square-meter final arena simulating a post-disaster environment. In our team collaboration, I primarily contributed to the maze challenge, achieving autonomous navigation using LiDAR sensing and the RRT algorithm. 
+    <i>The 2020 ZC-Cup Frontier Technology Challenge</i> centers on the theme of "Post-disaster Area Detection and Disposal," featuring 13 competition tasks. These tasks include traversing complex terrain, clearing obstacles, opening doors, ascending and descending stairs, autonomous navigation in unknown areas (maze challenge), handling fire emergencies in smoke-filled environments, and rescuing lives. Robots competed in a 4000-square-meter final arena simulating a post-disaster environment. In our team collaboration, I primarily contributed to the maze challenge, achieving autonomous navigation using LiDAR sensing and the RRT algorithm. 
   </p>
   <p style="margin-bottom: -5px;"><strong>Outcome</strong>:
-    2nd Place in ZC-Cup frontier Technology Challenge, 2020 (Team Work, Contributions to the autonomous navigation of a maze challenge)
+    2nd Place in ZC-Cup Frontier Technology Challenge, 2020 (Team Work, Contributions to the autonomous navigation of a maze challenge)
   </p>
 </div>
 
@@ -143,6 +143,6 @@ redirect_from:
     This project, originated from <i>the 2015 Beijing Engineering Ability Competition</i>, entailed the development of a Bluetooth cargo robot operated via a smartphone. The robot incorporates a differential drive mechanism facilitating flexibility. The robot is equipped with automatic control for lid opening, object retrieval, and cargo transportation, ensuring the secure conveyance of 100g loads to designated locations. The project involves mechanical design, electronic control, and system integration. 
   </p>
   <p style="margin-bottom: -5px;"><strong>Outcome</strong>:
-    2nd Place in Beijing Engineering Ability Competition, 2015（Team Leader）
+    2nd Prize in Beijing Engineering Ability Competition, 2015（Team Leader）
   </p>
 </div>
