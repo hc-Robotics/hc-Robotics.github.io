@@ -51,7 +51,7 @@ redirect_from:
 
 # Publications
 
-**Preprint**
+**Journal Articles**
 <div style="display: flex; align-items: center;">
   <a href="../images/Papers/RGBlimp_Q.jpg" style="display: inline-block; max-width: 100px !important; overflow: hidden; margin-right: 10px;">
     <img src="../images/Papers/RGBlimp_Q.jpg" alt="Placeholder Image" style="width: 100%; height: auto; display: block;">
@@ -59,7 +59,7 @@ redirect_from:
   <div>
     <div style="font-size: 14px; margin-bottom: 3px;"><strong>Hao Cheng</strong>, Feitian Zhang</div>
     <div style="font-weight: bold; font-size: 16px; line-height: 1.1;">RGBlimp-Q: Robotic Gliding Blimp With Moving Mass Control Based on a Bird-Inspired Continuum Arm</div>
-    <div style="font-size: 14px; margin-bottom: 3px;">Preprint, 2024</div>
+    <div style="font-size: 14px; margin-bottom: 3px;">IEEE Transactions on Robotics (<strong>T-RO</strong>), 2025 (Accepted)</div>
     <div style="font-size: 14px;">
       [<a href="https://rgblimp.github.io/" style="text-decoration: underline;">Project Page</a>]  
       [<a href="https://github.com/RGBlimp/RGBlimp-Q" style="text-decoration: underline;">Hardware & Code</a>] 
@@ -68,9 +68,8 @@ redirect_from:
       </div>
   </div>
 </div>
-<div style="margin-top: 20px;"></div>
 
-**Journal Articles**
+<div style="margin-top: 20px;"></div>
 
 <div style="display: flex; align-items: center;">
   <a href="../images/Papers/RA_L24_Data_Driven_Dynamics.jpg" style="display: inline-block; max-width: 100px !important; overflow: hidden; margin-right: 10px;">
@@ -79,7 +78,7 @@ redirect_from:
   <div>
     <div style="font-size: 14px; margin-bottom: 3px;">Yongjian Zhu, <strong>Hao Cheng</strong>, Feitian Zhang</div>
     <div style="font-weight: bold; font-size: 16px; line-height: 1.1;">Data-Driven Dynamics Modeling of Miniature Robotic Blimps Using Neural ODEs With Parameter Auto-Tuning</div>
-    <div style="font-size: 14px; margin-bottom: 3px;">IEEE Robotics and Automation Letters (<strong>RA-L</strong>), 2024 (Early Access)</div>
+    <div style="font-size: 14px; margin-bottom: 3px;">IEEE Robotics and Automation Letters (<strong>RA-L</strong>), 2024 </div>
     <div style="font-size: 14px;">
       [<a href="https://ieeexplore.ieee.org/document/10723763" style="text-decoration: underline;">Paper</a>]  
       [<a href="https://github.com/zhu-yj/ABNODE" style="text-decoration: underline;">Code</a>]
