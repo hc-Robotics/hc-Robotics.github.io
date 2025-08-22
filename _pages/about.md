@@ -61,8 +61,8 @@ redirect_from:
     <div style="font-weight: bold; font-size: 16px; line-height: 1.1;">RGBlimp-Q: Robotic Gliding Blimp With Moving Mass Control Based on a Bird-Inspired Continuum Arm</div>
     <div style="font-size: 14px; margin-bottom: 3px;">IEEE Transactions on Robotics (<strong>T-RO</strong>), 2025 (Early Access)</div>
     <div style="font-size: 14px;">
-      [<a href="https://rgblimp.github.io/" style="text-decoration: underline;">Project</a>]
-      [<a href="https://ieeexplore.ieee.org/document/11129463" style="text-decoration: underline;">Paper</a>]  
+      [<a href="https://ieeexplore.ieee.org/document/11129463" style="text-decoration: underline;">Paper</a>] 
+      [<a href="https://rgblimp.github.io/" style="text-decoration: underline;">Project</a>] 
       [<a href="https://github.com/RGBlimp/RGBlimp-Q" style="text-decoration: underline;">Hardware & Code</a>] 
       [<a href="https://youtu.be/yA_nncO6qE4" style="text-decoration: underline;">Video</a>]  
       [<a href="https://arxiv.org/pdf/2406.10810" style="text-decoration: underline;">arXiv</a>]
@@ -99,8 +99,8 @@ redirect_from:
     <div style="font-weight: bold; font-size: 16px; line-height: 1.1;">RGBlimp: Robotic Gliding Blimp - Design, Modeling, Development, and Aerodynamics Analysis</div>
     <div style="font-size: 14px; margin-bottom: 3px;">IEEE Robotics and Automation Letters (<strong>RA-L</strong>), 2023 (<a href="../images/img/IROS24.jpg" style="color: red; font-weight: bold; text-decoration: none;">Oral Presentation</a> in IEEE <strong>IROS</strong> 2024)</div>
     <div style="font-size: 14px;">
-      [<a href="{{ site.baseurl }}/projects/#rgblimp" style="text-decoration: underline;">Project</a>] 
-      [<a href="https://ieeexplore.ieee.org/document/10258385" style="text-decoration: underline;">Paper</a>]  
+      [<a href="https://ieeexplore.ieee.org/document/10258385" style="text-decoration: underline;">Paper</a>]
+      [<a href="{{ site.baseurl }}/projects/#rgblimp" style="text-decoration: underline;">Project</a>]   
       [<a href="https://youtu.be/AkYN0jurYxI" style="text-decoration: underline;">Video</a>]  
       [<a href="https://arxiv.org/pdf/2306.04079" style="text-decoration: underline;">arXiv</a>]
       </div>
@@ -120,8 +120,8 @@ redirect_from:
     <div style="font-weight: bold; font-size: 16px; line-height: 1.1;">Orientation to Pose: Continuum Robots Shape Reconstruction Based on the Multi-Attitude Solving Approach</div>
     <div style="font-size: 14px; margin-bottom: 3px;">IEEE International Conference on Robotics and Automation (<strong>ICRA</strong>), 2022 (<a href="../images/img/ICRA22.jpg" style="color: red; font-weight: bold; text-decoration: none;">Oral Presentation</a>)</div>
     <div style="font-size: 14px;">
-      [<a href="{{ site.baseurl }}/projects/#continuum" style="text-decoration: underline;">Project</a>] 
-      [<a href="https://ieeexplore.ieee.org/document/9812289" style="text-decoration: underline;">Paper</a>]  
+      [<a href="https://ieeexplore.ieee.org/document/9812289" style="text-decoration: underline;">Paper</a>] 
+      [<a href="{{ site.baseurl }}/projects/#continuum" style="text-decoration: underline;">Project</a>]  
       [<a href="https://youtu.be/tm9aPsXuPTo" style="text-decoration: underline;">Video</a>]  
       [<a href="https://arxiv.org/pdf/2103.05150" style="text-decoration: underline;">arXiv</a>]
       </div>
