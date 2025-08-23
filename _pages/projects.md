@@ -27,7 +27,9 @@ redirect_from:
   <p style="margin-bottom: -2px;">
     Drawing inspiration from the flight mechanics of birds and their ability to perch against natural wind, this project introduces RGBlimp-Q, a robotic gliding blimp equipped with a birdinspired continuum arm. This arm allows for flexible attitude adjustments through moving mass control to enhance disturbance resilience, while also enabling object capture by using claws to counteract environmental disturbances, similar to a bird. This project presents the design, modeling, and prototyping of RGBlimp-Q, thus extending the advantages of robotic blimps to more complex environments. To the best of the authors’ knowledge, this is the first interdisciplinary design integrating continuum mechanisms onto robotic blimps. Experimental results from both indoor and outdoor settings validate the improved flight robustness against environmental disturbances offered by this novel design. 
   </p>
-  [<a href="https://rgblimp.github.io/" style="text-decoration: underline;">Project Page</a>] [<a href="https://github.com/RGBlimp/RGBlimp-Q" style="text-decoration: underline;">Hardware & Code</a>] 
+  [<a href="https://ieeexplore.ieee.org/document/11129463" style="text-decoration: underline;">Paper</a>]
+  [<a href="https://rgblimp.github.io/" style="text-decoration: underline;">Project Page</a>] 
+  [<a href="https://github.com/RGBlimp/RGBlimp-Q" style="text-decoration: underline;">Hardware & Code</a>] 
 </div>
 
 <div style="margin-top: 20px;"></div>
