@@ -64,7 +64,7 @@ redirect_from:
       [<a href="https://ieeexplore.ieee.org/document/11129463" style="text-decoration: underline;">Paper</a>] 
       [<a href="https://rgblimp.github.io/" style="text-decoration: underline;">Project</a>] 
       [<a href="https://github.com/RGBlimp/RGBlimp-Q" style="text-decoration: underline;">Hardware & Code</a>] 
-      [<a href="https://youtu.be/yA_nncO6qE4" style="text-decoration: underline;">Video</a>]  
+      [<a href="https://youtu.be/U8VfF37lHvU" style="text-decoration: underline;">Video</a>]  
       [<a href="https://arxiv.org/pdf/2406.10810" style="text-decoration: underline;">arXiv</a>]
       </div>
   </div>
