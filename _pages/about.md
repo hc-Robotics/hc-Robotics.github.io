@@ -59,7 +59,7 @@ redirect_from:
   <div>
     <div style="font-size: 14px; margin-bottom: 3px;"><strong>Hao Cheng</strong>, Feitian Zhang</div>
     <div style="font-weight: bold; font-size: 16px; line-height: 1.1;">RGBlimp-Q: Robotic Gliding Blimp With Moving Mass Control Based on a Bird-Inspired Continuum Arm</div>
-    <div style="font-size: 14px; margin-bottom: 3px;">IEEE Transactions on Robotics (<strong>T-RO</strong>), 2025 (Early Access)</div>
+    <div style="font-size: 14px; margin-bottom: 3px;">IEEE Transactions on Robotics (<strong>T-RO</strong>), 2025 </div>
     <div style="font-size: 14px;">
       [<a href="https://ieeexplore.ieee.org/document/11129463" style="text-decoration: underline;">Paper</a>] 
       [<a href="https://rgblimp.github.io/" style="text-decoration: underline;">Project</a>] 
