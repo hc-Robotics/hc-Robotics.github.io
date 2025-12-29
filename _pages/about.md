@@ -212,17 +212,19 @@ redirect_from:
 
 # Competitions
 
-- 2nd Prize in China Graduate Robotics Innovation Design Competition (Team Leader, Designed a Continuum Spinal Rehabilitation Robot) [<a href="{{ site.baseurl }}/projects/#spinal" style="text-decoration: underline;">Project</a>] &emsp; _2021_ 
-- 2nd Place in ZC-Cup Frontier Technology Challenge (Team Work, Contributions to the autonomous navigation of a maze challenge) [<a href="{{ site.baseurl }}/projects/#maze" style="text-decoration: underline;">Project</a>] &emsp; _2020_
-- **1st Prize** in Capital Mechanical Innovation Design Competition (Team Leader, Designed an Express Packaging Robot) &emsp; _2016_
-- **1st Prize** in China Siemens-Cup Intelligent Manufacturing Challenge  &emsp; _2016_
-- **Champion** in Robots Competition of Universities at Beijing (Team Leader, Robots Combat) [<a href="{{ site.baseurl }}/projects/#battle" style="text-decoration: underline;">Project</a>]  &emsp; _2015_
-- 2nd Prize in Beijing Engineering Ability Competition (Team Leader, Designed a Bluetooth Cargo Robot) [<a href="{{ site.baseurl }}/projects/#bcar" style="text-decoration: underline;">Project</a>] &emsp; _2015_ 
-- 2nd Prize in China LQ-Cup C/C++ Programming Competition (Individual Events) &emsp; _2015_
-- 2nd Prize in China National Olympiad in Informatics in Provinces (NOIP) &emsp; _2012_
+- **1st Prize**, "Travel with Colors" Inclusive Design Comp. (Lead, suitcase for visually impaired), _2025_
+- 2nd Prize, China Graduate Future Flight Vehicle Design Comp. (Lead, robotic gliding blimp), _2024_
+- 2nd Prize, China Graduate Robotics Design Comp. (Lead, continuum spinal rehabilitation robot) [<a href="{{ site.baseurl }}/projects/#spinal" style="text-decoration: underline;">Project</a>] &emsp; _2021_ 
+- 2nd Place, ZC-Cup Frontier Technology Challenge (contribution to autonomous maze navigation) [<a href="{{ site.baseurl }}/projects/#maze" style="text-decoration: underline;">Project</a>] &emsp; _2020_
+- **1st Prize**, Capital Mechanical Innovation Design Comp. (Lead, packaging robot) &emsp; _2016_
+- **1st Prize**, China Siemens-Cup Intelligent Manufacturing Challenge  &emsp; _2016_
+- **Champion**, Robots Comp. of Universities at Beijing (Lead, robot combat) [<a href="{{ site.baseurl }}/projects/#battle" style="text-decoration: underline;">Project</a>]  &emsp; _2015_
+- 2nd Prize, Beijing Engineering Ability Compet. (Lead, Bluetooth cargo robot) [<a href="{{ site.baseurl }}/projects/#bcar" style="text-decoration: underline;">Project</a>] &emsp; _2015_ 
+- 2nd Prize, China LQ-Cup C/C++ Programming Comp. (individual) &emsp; _2015_
+- 2nd Prize, China National Olympiad in Informatics in Provinces (NOIP, individual, C++) &emsp; _2012_
 
 ---
 
 # Academic Service
 
-- Reviewer for IEEE ICRA, IROS, CDC, ACC, AIM
+- Reviewer for IEEE T-RO, ICRA, IROS, CDC, ACC, and IEEE/ASME AIM
