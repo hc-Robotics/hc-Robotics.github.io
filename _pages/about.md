@@ -214,16 +214,16 @@ redirect_from:
 
 # Competitions
 
-- **1st Prize**, "Travel with Colors" Inclusive Design Comp. (Lead, suitcase for visually impaired), _2025_
-- 2nd Prize, Graduate Future Flight Vehicle Design Comp. (Lead, robotic gliding blimp), _2024_
-- 2nd Prize, Graduate Robotics Design Comp. (Lead, continuum spinal rehabilitation robot) [<a href="{{ site.baseurl }}/projects/#spinal" style="text-decoration: underline;">Project</a>] &emsp; _2021_ 
-- 2nd Place, ZC-Cup Frontier Tech. Challenge (contribution to autonomous maze navigation) [<a href="{{ site.baseurl }}/projects/#maze" style="text-decoration: underline;">Project</a>] &emsp; _2020_
-- **1st Prize**, Capital Mechanical Innovation Design Comp. (Lead, packaging robot) &emsp; _2016_
-- **1st Prize**, China Siemens-Cup Intelligent Manufacturing Challenge  &emsp; _2016_
-- **Champion**, Robots Comp. of Universities at Beijing (Lead, robot combat) [<a href="{{ site.baseurl }}/projects/#battle" style="text-decoration: underline;">Project</a>]  &emsp; _2015_
-- 2nd Prize, Beijing Eng. Ability Compet. (Lead, Bluetooth cargo robot) [<a href="{{ site.baseurl }}/projects/#bcar" style="text-decoration: underline;">Project</a>] &emsp; _2015_ 
-- 2nd Prize, LQ-Cup C/C++ Programming Comp. (individual) &emsp; _2015_
-- 2nd Prize, National Olympiad in Informatics in Provinces (NOIP, individual, C++) &emsp; _2012_
+- **1st Prize**, Inclusive Design Comp. (Lead, suitcase for visually impaired), 2025
+- 2nd Prize, Graduate Future Flight Vehicle Design Comp. (Lead, robotic gliding blimp), 2024
+- 2nd Prize, Graduate Robotics Design Comp. (Lead, spinal rehab robot), 2021 [<a href="{{ site.baseurl }}/projects/#spinal" style="text-decoration: underline;">Project</a>]
+- 2nd Place, ZC-Cup Frontier Tech. Challenge (Contribution in maze navigation), 2020 [<a href="{{ site.baseurl }}/projects/#maze" style="text-decoration: underline;">Project</a>]
+- **1st Prize**, Capital Mechanical Innovation Design Comp. (Lead, packaging robot), 2016
+- **1st Prize**, China Siemens-Cup Intelligent Manufacturing Challenge, 2016
+- **Champion**, Robots Comp. of Universities at Beijing (Lead, robot combat), 2015 [<a href="{{ site.baseurl }}/projects/#battle" style="text-decoration: underline;">Project</a>]
+- 2nd Prize, Beijing Eng. Ability Compet. (Lead, Bluetooth cargo robot), 2015 [<a href="{{ site.baseurl }}/projects/#bcar" style="text-decoration: underline;">Project</a>]
+- 2nd Prize, LQ-Cup C/C++ Programming Comp. (individual), 2015
+- 2nd Prize, National Olympiad in Informatics in Provinces (NOIP, individual, C++), 2012
 
 ---
 
