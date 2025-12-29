@@ -112,6 +112,38 @@ redirect_from:
 **Conference Papers**
 
 <div style="display: flex; align-items: center;">
+  <a href="../images/Papers/AIM25_RL.jpg" style="display: inline-block; max-width: 100px !important; overflow: hidden; margin-right: 10px;">
+    <img src="../images/Papers/AIM25_RL.jpg" alt="Placeholder Image" style="width: 100%; height: auto; display: block;">
+  </a>
+  <div>
+    <div style="font-size: 14px; margin-bottom: 3px;"> Yue Fan, <strong>Hao Cheng</strong>, Hongwu Wang, Feitian Zhang</div>
+    <div style="font-weight: bold; font-size: 16px; line-height: 1.1;">Multi-Waypoint Navigation Control for Robotic Blimps Using Deep Reinforcement Learning</div>
+    <div style="font-size: 14px; margin-bottom: 3px;">IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), 2025 </div>
+    <div style="font-size: 14px;">
+      [<a href="https://ieeexplore.ieee.org/document/11175853" style="text-decoration: underline;">Paper</a>] 
+      </div>
+  </div>
+</div>
+
+<div style="margin-top: 20px;"></div>
+
+<div style="display: flex; align-items: center;">
+  <a href="../images/Papers/AIM25_Wind.jpg" style="display: inline-block; max-width: 100px !important; overflow: hidden; margin-right: 10px;">
+    <img src="../images/Papers/AIM25_Wind.jpg" alt="Placeholder Image" style="width: 100%; height: auto; display: block;">
+  </a>
+  <div>
+    <div style="font-size: 14px; margin-bottom: 3px;"> Hongwu Wang, <strong>Hao Cheng</strong>, Yue Fan, Feitian Zhang</div>
+    <div style="font-weight: bold; font-size: 16px; line-height: 1.1;">Wind Disturbance Compensation for Path-Following Control of Robotic Blimps via Deep Reinforcement Learning</div>
+    <div style="font-size: 14px; margin-bottom: 3px;"> IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), 2025 </div>
+    <div style="font-size: 14px;">
+      [<a href="https://ieeexplore.ieee.org/document/11175743" style="text-decoration: underline;">Paper</a>] 
+      </div>
+  </div>
+</div>
+
+<div style="margin-top: 20px;"></div>
+
+<div style="display: flex; align-items: center;">
   <a href="../images/Papers/ICRA22_Shape Reconstruction.jpg" style="display: inline-block; max-width: 100px !important; overflow: hidden; margin-right: 10px;">
     <img src="../images/Papers/ICRA22_Shape Reconstruction.jpg" alt="Placeholder Image" style="width: 100%; height: auto; display: block;">
   </a>
@@ -217,7 +249,7 @@ redirect_from:
 - **1st Prize**, Inclusive Design Comp. (Lead, suitcase for visually impaired), 2025
 - 2nd Prize, Graduate Future Flight Vehicle Design Comp. (Lead, robotic gliding blimp), 2024
 - 2nd Prize, Graduate Robotics Design Comp. (Lead, spinal rehab robot), 2021 [<a href="{{ site.baseurl }}/projects/#spinal" style="text-decoration: underline;">Project</a>]
-- 2nd Place, ZC-Cup Frontier Tech. Challenge (Contribution in maze navigation), 2020 [<a href="{{ site.baseurl }}/projects/#maze" style="text-decoration: underline;">Project</a>]
+- 2nd Place, ZC-Cup Frontier Tech. Challenge (Contribution in Maze Nav), 2020 [<a href="{{ site.baseurl }}/projects/#maze" style="text-decoration: underline;">Project</a>]
 - **1st Prize**, Capital Mechanical Innovation Design Comp. (Lead, packaging robot), 2016
 - **1st Prize**, China Siemens-Cup Intelligent Manufacturing Challenge, 2016
 - **Champion**, Robots Comp. of Universities at Beijing (Lead, robot combat), 2015 [<a href="{{ site.baseurl }}/projects/#battle" style="text-decoration: underline;">Project</a>]
