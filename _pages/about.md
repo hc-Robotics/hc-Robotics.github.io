@@ -234,7 +234,7 @@ redirect_from:
 # Awards & Honors
 
 -  **National Scholarship** (Doctoral), China, 2025
--  **Academic Innovation Award**, Peking University, 2025
+-  **Exceptional Award for Academic Innovation**, Peking University, 2025
 -  Outstanding Research Award, Peking University, 2022
 -  Comprehensive Excellence Scholarship, Tsinghua University, 2020
 -  **Outstanding Graduate at Beijing**, China, 2017
@@ -246,14 +246,14 @@ redirect_from:
 
 # Competitions
 
-- **1st Prize**, Inclusive Design Comp. (Lead, suitcase for visually impaired), 2025
-- 2nd Prize, Graduate Future Flight Vehicle Design Comp. (Lead, robotic gliding blimp), 2024
-- 2nd Prize, Graduate Robotics Design Comp. (Lead, spinal rehab robot), 2021 [<a href="{{ site.baseurl }}/projects/#spinal" style="text-decoration: underline;">Project</a>]
-- 2nd Place, ZC-Cup Frontier Tech. Challenge (Contribution in Maze Nav), 2020 [<a href="{{ site.baseurl }}/projects/#maze" style="text-decoration: underline;">Project</a>]
-- **1st Prize**, Capital Mechanical Innovation Design Comp. (Lead, packaging robot), 2016
+- **1st Prize**, Inclusive Design Comp. (lead, suitcase for visually impaired), 2025
+- 2nd Prize, Graduate Future Flight Vehicle Design Comp. (lead, robotic gliding blimp), 2024
+- 2nd Prize, Graduate Robotics Design Comp. (lead, spinal rehab robot), 2021 [<a href="{{ site.baseurl }}/projects/#spinal" style="text-decoration: underline;">Project</a>]
+- 2nd Place, ZC-Cup Frontier Tech. Challenge (contribution in Maze Nav), 2020 [<a href="{{ site.baseurl }}/projects/#maze" style="text-decoration: underline;">Project</a>]
+- **1st Prize**, Capital Mechanical Innovation Design Comp. (lead, packaging robot), 2016
 - **1st Prize**, China Siemens-Cup Intelligent Manufacturing Challenge, 2016
-- **Champion**, Robots Comp. of Universities at Beijing (Lead, robot combat), 2015 [<a href="{{ site.baseurl }}/projects/#battle" style="text-decoration: underline;">Project</a>]
-- 2nd Prize, Beijing Eng. Ability Compet. (Lead, Bluetooth cargo robot), 2015 [<a href="{{ site.baseurl }}/projects/#bcar" style="text-decoration: underline;">Project</a>]
+- **Champion**, Robots Comp. of Universities at Beijing (lead, robot combat), 2015 [<a href="{{ site.baseurl }}/projects/#battle" style="text-decoration: underline;">Project</a>]
+- 2nd Prize, Beijing Eng. Ability Compet. (lead, Bluetooth cargo robot), 2015 [<a href="{{ site.baseurl }}/projects/#bcar" style="text-decoration: underline;">Project</a>]
 - 2nd Prize, LQ-Cup C/C++ Programming Comp. (individual), 2015
 - 2nd Prize, National Olympiad in Informatics in Provinces (NOIP, individual, C++), 2012
 
