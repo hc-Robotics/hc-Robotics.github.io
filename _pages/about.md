@@ -40,12 +40,12 @@ redirect_from:
 &emsp;**College of Engineering, Peking University** &emsp; _09/2021 - present_  
 &emsp;*Beijing, China*  
 &emsp;Advisor:&nbsp;&nbsp;<a href="http://www2.coe.pku.edu.cn/faculty/zhangfeitian/" style="color: inherit; text-decoration: none;">Prof. Feitian Zhang</a>  
-&emsp;Topic:&nbsp;&nbsp;Lighter-than-air aerial robots 
+&emsp;Topic:&nbsp;&nbsp;Lighter-than-Air Aerial Robots, Bionic Flying Robots, Aerial Manipulation
 
 &emsp;**Shenzhen International Graduate School, Tsinghua University** &emsp; _09/2018 - 08/2021_  
 &emsp;*Shenzhen, China*  
 &emsp;Advisor:&nbsp;&nbsp;<a href="https://www.sigs.tsinghua.edu.cn/lhd_en/list.htm" style="color: inherit; text-decoration: none;">Prof. Houde Liu</a>, <a href="https://www.sigs.tsinghua.edu.cn/wxq_en/main.htm" style="color: inherit; text-decoration: none;">Prof. Xueqian Wang</a>  
-&emsp;Topic:&nbsp;&nbsp;Perception and Control for Continuum Robots and Soft Robots 
+&emsp;Topic:&nbsp;&nbsp;Perception and Control for Continuum and Soft Robots 
 
 ---
 
@@ -189,6 +189,23 @@ redirect_from:
     <div style="font-size: 14px;">
       [<a href="https://ieeexplore.ieee.org/document/9283135" style="text-decoration: underline;">Paper</a>]  
       [<a href="https://arxiv.org/pdf/2009.06801" style="text-decoration: underline;">arXiv</a>]
+      </div>
+  </div>
+</div>
+
+<div style="margin-top: 20px;"></div>
+
+**Under Review**
+<div style="display: flex; align-items: center;">
+  <a href="../images/Papers/RGBlimp_MPC.jpg" style="display: inline-block; max-width: 100px !important; overflow: hidden; margin-right: 10px;">
+    <img src="../images/Papers/RGBlimp_MPC.jpg" alt="Placeholder Image" style="width: 100%; height: auto; display: block;">
+  </a>
+  <div>
+    <div style="font-size: 14px; margin-bottom: 3px;"><strong>Hao Cheng</strong>, Feitian Zhang</div>
+    <div style="font-weight: bold; font-size: 16px; line-height: 1.1;">Disturbance-Aware Flight Control of Robotic Gliding Blimp via Moving Mass Actuation</div>
+    <div style="font-size: 14px; margin-bottom: 3px;"> Under Review, 2026 </div>
+    <div style="font-size: 14px;">
+      [<a href="https://arxiv.org/pdf/2601.21188" style="text-decoration: underline;">arXiv</a>]
       </div>
   </div>
 </div>
