@@ -23,7 +23,7 @@ redirect_from:
 
 &emsp;**Department of Automation, Tsinghua University** &emsp; _09/2018 - 08/2021_  
 &emsp;*Beijing/Shenzhen, China*  
-&emsp;M.S. in Control Engineering 
+&emsp;M.E. in Control Engineering 
 
 &emsp;**New Energy School, North China Electric Power University** &emsp; _08/2013 - 06/2017_  
 &emsp;*Beijing, China*  
